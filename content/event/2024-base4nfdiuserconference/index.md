@@ -1,4 +1,6 @@
 ---
+draft: false
+
 title: PID4NFDI @ Base4NFDI User Conference
 
 event: Base4NFDI User Conference
@@ -24,8 +26,13 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-07-12T00:00:00Z'
 
-authors: []
 tags: []
+
+# Show author bio?
+profile: false
+
+# Show social sharing links?
+share: false
 
 # Is this a featured talk? (true/false)
 featured: false
