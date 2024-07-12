@@ -60,7 +60,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Project team members
+  - Project Team Members
 ---
 
 Jana works at the Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG) and is a project team member of PID4NFDI.

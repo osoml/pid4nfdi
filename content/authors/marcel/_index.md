@@ -60,7 +60,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal investigators
+  - Principal Investigators
 ---
 
 Marcel works at the Helmholtz Open Science Office and is an interim principal investigator of PID4NFDI.

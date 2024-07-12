@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal investigators
+  - Principal Investigators
 ---
 
 Matthew works at DataCite and is a principal investigator of PID4NFDI.

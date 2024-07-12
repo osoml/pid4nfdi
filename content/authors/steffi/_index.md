@@ -60,7 +60,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Project team members
+  - Project Team Members
 ---
 
 Steffi works at the Helmholtz Open Science Office and is a project team member of PID4NFDI.
