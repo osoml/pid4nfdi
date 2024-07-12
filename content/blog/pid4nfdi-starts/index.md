@@ -1,17 +1,17 @@
 ---
 # Documentation: https://docs.hugoblox.com/ and https://gohugo.io/content-management/
 
-title: "Title"
-subtitle: "Subtitle (optional)"
-summary: "Summary (optional)"
+title: "PID4NFDI starts"
+subtitle: ""
+summary: "PID4NFDI, a new basic service in development for the NFDI, has begun operation starting with a one-year initialisation phase on January 1, 2024."
 authors: ["marc"]
-tags: ["tag one", "tag two", "tag three"]
-categories: ["category one", "category two", "category three"]
-date: 2024-01-01T12:00:00Z
-lastmod: 2024-03-01T12:00:00Z
+tags: ["NFDI"]
+categories: ["Project news"]
+date: 2024-03-01T12:00:00Z
+#lastmod: 2024-03-01T12:00:00Z
 
 # Draft?
-draft: true
+draft: false
 
 # Show publish date?
 show_date: true
@@ -20,7 +20,7 @@ show_date: true
 reading_time: true
 
 # Display in the Featured block on the homepage?
-featured: false
+featured: true
 
 # Hide in search results?
 private: false
