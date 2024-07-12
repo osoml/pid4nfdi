@@ -3,12 +3,12 @@
 
 title: "PID4NFDI starts"
 subtitle: ""
-summary: "PID4NFDI, a new basic service in development for the NFDI, has begun operation starting with a one-year initialisation phase on January 1, 2024."
+summary: ""
 authors: ["marc"]
-tags: ["NFDI"]
-categories: ["Project news"]
-date: 2024-03-01T12:00:00Z
-#lastmod: 2024-03-01T12:00:00Z
+tags: ["NFDI", "project news"]
+categories: []
+date: 2024-03-01
+#lastmod: 2024-03-01
 
 # Draft?
 draft: false
@@ -53,7 +53,7 @@ image:
 projects: []
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+PID4NFDI, a new basic service in development for the NFDI, has begun operation starting with a one-year initialisation phase on January 1, 2024.
 
 <!--more-->
 
