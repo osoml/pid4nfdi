@@ -1,21 +1,19 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-07-12
 type: landing
 
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      title: PID4NFDI
       image:
-        filename: welcome.jpg
+        filename: pid4nfdi.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        PID4NFDI is a basic service for persistent identifiers (PIDs) in development for Germany's national research data infrastructure, the [Nationale Forschungsdateninfrastruktur (NFDI)](https://www.nfdi.de/?lang=en). PID4NFDI is part of [Base4NFDI](https://base4nfdi.de/) and is currently in its initialisation phase, the first of three service development phases.
   
   - block: collection
     content:
@@ -35,30 +33,10 @@ sections:
     design:
       view: card
       columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Publications
       text: ""
       count: 5
       filters:
