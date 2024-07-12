@@ -27,9 +27,11 @@ sections:
         exclude_featured: false
         publication_type: ''
         tag: ''
+        folders:
+          - blog
       offset: 0
       order: desc
-      page_type: blog
+      page_type: post
     design:
       view: card
       columns: '1'
@@ -42,7 +44,7 @@ sections:
       filters:
         folders:
           - publications
-        publication_type: 'article'
+        #publication_type: 'article'
     design:
       view: citation
       columns: '1'
