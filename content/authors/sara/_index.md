@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Steffi Genderjahn
+title: Sara El-Gebali
 
 # Full Name (for SEO)
-first_name: Steffi
-last_name: Genderjahn
+first_name: Sara
+last_name: El-Gebali
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,11 +14,11 @@ role: Project team member
 
 # Organizations/Affiliations
 organizations:
-  - name: Helmholtz Open Science Office
-    url: 'https://os.helmholtz.de/'
+  - name: DataCite
+    url: 'https://datacite.org'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Steffi works at the Helmholtz Open Science Office and is a project team member of PID4NFDI.
+bio: Sara works at DataCite and is a project team member of PID4NFDI.
 
 interests:
   - tba
@@ -39,12 +39,24 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: globe-alt
+    icon_pack: hero
+    link: https://selgebali.netlify.app/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:steffi.genderjahn@os.helmholtz.de'
+    link: 'mailto:sara.elgebali@datacite.org'
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-8912-184X
+    link: https://orcid.org/0000-0003-1378-5495
+  - icon: github
+    icon_pack: fab
+    link: https://www.github.com/selgebali
+  - icon: mastodon
+    icon_pack: brands
+    link: https://fairpoints.social/@yalahowy
+  - icon: linkedin
+    icon_pack: brands
+    links: https://www.linkedin.com/in/selgebali/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,4 +75,4 @@ user_groups:
   - Project team members
 ---
 
-Steffi works at the Helmholtz Open Science Office and is a project team member of PID4NFDI.
+Sara works at DataCite and is a project team member of PID4NFDI.

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Steffi Genderjahn
+title: Marcel Meistring
 
 # Full Name (for SEO)
-first_name: Steffi
-last_name: Genderjahn
+first_name: Marcel
+last_name: Meistring
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Project team member
+role: Principal investigator (interim)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: 'https://os.helmholtz.de/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Steffi works at the Helmholtz Open Science Office and is a project team member of PID4NFDI.
+bio: Marcel works at the Helmholtz Open Science Office and is an interim principal investigator of PID4NFDI.
 
 interests:
   - tba
@@ -41,10 +41,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:steffi.genderjahn@os.helmholtz.de'
+    link: 'mailto:marcel.meistring@os.helmholtz.de'
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-8912-184X
+    link: https://orcid.org/0000-0001-6347-9926
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +60,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Project team members
+  - Principal investigators
 ---
 
-Steffi works at the Helmholtz Open Science Office and is a project team member of PID4NFDI.
+Marcel works at the Helmholtz Open Science Office and is an interim principal investigator of PID4NFDI.

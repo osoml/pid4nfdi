@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Steffi Genderjahn
+title: Stephanie Hagemann-Wilholt
 
 # Full Name (for SEO)
-first_name: Steffi
-last_name: Genderjahn
+first_name: Stephanie
+last_name: Hagemann-Wilholt
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,11 +14,11 @@ role: Project team member
 
 # Organizations/Affiliations
 organizations:
-  - name: Helmholtz Open Science Office
-    url: 'https://os.helmholtz.de/'
+  - name: German National Library of Science and Technology (TIB)
+    url: 'https://www.tib.eu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Steffi works at the Helmholtz Open Science Office and is a project team member of PID4NFDI.
+bio: Stephanie works at the German National Library of Science and Technology (TIB) and is a project team member of PID4NFDI.
 
 interests:
   - tba
@@ -41,10 +41,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:steffi.genderjahn@os.helmholtz.de'
+    link: 'mailto:stephanie.hagemann@tib.eu'
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-8912-184X
+    link: https://orcid.org/0000-0002-0474-2410
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,4 +63,4 @@ user_groups:
   - Project team members
 ---
 
-Steffi works at the Helmholtz Open Science Office and is a project team member of PID4NFDI.
+Stephanie works at the German National Library of Science and Technology (TIB) and is a project team member of PID4NFDI.

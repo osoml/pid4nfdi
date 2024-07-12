@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Steffi Genderjahn
+title: Matthew Buys
 
 # Full Name (for SEO)
-first_name: Steffi
-last_name: Genderjahn
+first_name: Matthew
+last_name: Buys
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Project team member
+role: Principal investigator
 
 # Organizations/Affiliations
 organizations:
-  - name: Helmholtz Open Science Office
-    url: 'https://os.helmholtz.de/'
+  - name: DataCite
+    url: 'https://datacite.org'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Steffi works at the Helmholtz Open Science Office and is a project team member of PID4NFDI.
+bio: Matthew works at DataCite and is a principal investigator of PID4NFDI.
 
 interests:
   - tba
@@ -41,10 +41,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:steffi.genderjahn@os.helmholtz.de'
+    link: 'mailto:mattbuys@datacite.org'
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-8912-184X
+    link: https://orcid.org/0000-0001-7234-3684
+  - icon: linkedin
+    icon_pack: brands
+    link: https://za.linkedin.com/pub/matthew-buys/15/702/2a2
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Project team members
+  - Principal investigators
 ---
 
-Steffi works at the Helmholtz Open Science Office and is a project team member of PID4NFDI.
+Matthew works at DataCite and is a principal investigator of PID4NFDI.

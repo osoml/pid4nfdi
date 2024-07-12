@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Steffi Genderjahn
+title: Sven Bingert
 
 # Full Name (for SEO)
-first_name: Steffi
-last_name: Genderjahn
+first_name: Sven
+last_name: Bingert
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Project team member
+role: Principial investigator and project team member
 
 # Organizations/Affiliations
 organizations:
-  - name: Helmholtz Open Science Office
-    url: 'https://os.helmholtz.de/'
+  - name: Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)
+    url: 'https://gwdg.de/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Steffi works at the Helmholtz Open Science Office and is a project team member of PID4NFDI.
+bio: Sven works at the Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG) and is a principal investigator and project team member of PID4NFDI.
 
 interests:
   - tba
@@ -41,10 +41,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:steffi.genderjahn@os.helmholtz.de'
+    link: 'mailto:sven.bingert@gwdg.de'
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-8912-184X
+    link: https://orcid.org/0000-0001-9547-1582
+  - icon: researcherid
+    icon_pack: ai
+    link: http://www.researcherid.com/rid/S-5704-2017
+  - icon: scopus
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=8576427200
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +66,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+  - Principal investigators
   - Project team members
 ---
 
-Steffi works at the Helmholtz Open Science Office and is a project team member of PID4NFDI.
+Sven works at the Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG) and is a principal investigator and project team member of PID4NFDI.
