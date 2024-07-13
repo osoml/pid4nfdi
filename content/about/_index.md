@@ -29,17 +29,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Integration Phase
-          company: Second Phase
-          location: planned / in preparation
-          date_start: '2025-01-01'
-          date_end: '2026-12-31'
-          #description: 
         - title: Initialisation Phase
           company: First Phase
           location: current
           date_start: '2024-01-01'
           date_end: ''
+          #description: 
+        - title: Integration Phase
+          company: Second Phase
+          location: planned / in preparation
+          date_start: '2025-01-01'
+          date_end: '2026-12-31'
           #description: 
     design:
       columns: '1'
