@@ -24,9 +24,9 @@ sections:
           #description: 
         - title: Initialisation Phase
           company: First Phase
-          location: currently
+          location: current
           date_start: '2024-01-01'
-          date_end: '2024-12-31'
+          date_end: ''
           #description: 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.

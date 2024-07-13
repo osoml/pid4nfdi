@@ -1,32 +1,32 @@
 ---
 draft: false
 
-title: PID4NFDI @ 1st Base4NFDI User Conference
+title: PID4NFDI @ EOSC Symposium 2024
 
-event: 1st Base4NFDI User Conference
-event_url: https://events.gwdg.de/event/658/
+event: EOSC Symposium 2024
+event_url: https://eosc.eu/symposium2024/
 
-location: Fraunhofer FOKUS – Fraunhofer Institute for Open Communication Systems
+location: H4 Hotel Alexanderplatz
 address:
-  street: Kaiserin-Augusta-Allee 31
+  street: Karl-Liebknecht-Straße 32
   city: Berlin
   #region: Berlin
-  postcode: '10589'
+  postcode: '10178'
   country: Germany
 
-summary: PID4NFDI will take part in the first Base4NFDI User Conference in 2024 in Berlin.
-abstract: 'The team of PID4NFDI will join in participating in the first Base4NFDI User Conference which takes place in Berlin in November 2024.'
+summary: PID4NFDI will take part in the EOSC Symposium 2024 in Berlin.
+abstract: 'The team of PID4NFDI will join in participating in the EOSC Symposium 2024 which takes place in Berlin in October 2024.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-11-20T12:00:00Z'
-date_end: '2024-11-21T14:00:00Z'
+date: '2024-10-21T13:00:00Z'
+date_end: '2024-10-23T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-07-12T00:00:00Z'
 
-tags: ["Base4NFDI"]
+tags: ["EOSC"]
 
 # Show author bio?
 profile: false
@@ -38,7 +38,7 @@ share: false
 featured: false
 
 image:
-  caption: 'Image credit: [Base4NFDI](https://base4nfdi.de/)'
+  caption: 'Image credit: [EOSC](https://eosc.eu/)'
   focal_point: Right
 
 url_code: ''
@@ -61,4 +61,4 @@ slides:
 projects:
 ---
 
-The team of PID4NFDI will join in participating in the first Base4NFDI User Conference which takes place in Berlin in November 2024.
+The team of PID4NFDI will join in participating in the EOSC Symposium 2024 which takes place in Berlin in October 2024.
