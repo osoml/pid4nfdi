@@ -1,12 +1,13 @@
 ---
 title: PID4nfdi - Example Use Cases and Services for NFDI
 authors:
-- Stephanie Hagemann-Wilholt
-- Philipp Wieder
+- stephanie
+- philipp
 - Daniel Martini
 - Matthias Lange
 date: '2024-02-20'
 publishDate: '2024-07-12'
+publication: Zenodo
 publication_types:
 - document
 doi: 10.5281/zenodo.10685209
@@ -18,12 +19,8 @@ abstract: 'The PID4NFDI basic service project was presented as part of the NFDIT
   PID infrastructures.'
 tags:
 - NFDI
-- PID
-- Persistent Identifier
-- base services
-- information infrastructure
-- open science
-links:
-- name: URL
-  url: https://doi.org/10.5281/zenodo.10685209
+- PID4NFDI
+- persistent identifier
+- use case
+- service
 ---
