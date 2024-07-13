@@ -39,9 +39,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: globe-alt
-    icon_pack: hero
-    link: https://selgebali.netlify.app/
   - icon: envelope
     icon_pack: fas
     link: 'mailto:sara.elgebali@datacite.org'
