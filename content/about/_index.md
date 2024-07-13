@@ -18,7 +18,7 @@ sections:
       items:
         - title: Integration Phase
           company: Second Phase
-          location: in preparation
+          location: planned / in preparation
           date_start: '2025-01-01'
           date_end: '2026-12-31'
           #description: 
