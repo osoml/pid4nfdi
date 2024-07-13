@@ -5,7 +5,7 @@ title: "PID4NFDI starts"
 subtitle: ""
 summary: ""
 authors: ["marc"]
-tags: ["NFDI", "project news"]
+tags: ["NFDI", "PID4NFDI", "project news"]
 categories: []
 date: 2024-03-01
 #lastmod: 2024-03-01
