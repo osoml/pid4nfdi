@@ -6,9 +6,9 @@ authors:
 - Daniel Martini
 - Matthias Lange
 date: '2024-02-20'
-publishDate: '2024-07-13T00:23:38.064058Z'
+publishDate: '2024-07-12'
 publication_types:
-- manuscript
+- document
 doi: 10.5281/zenodo.10685209
 abstract: 'The PID4NFDI basic service project was presented as part of the NFDITalks:
   Persistent identifiers (PIDs) are central to FAIR research data management. However,
@@ -25,5 +25,5 @@ tags:
 - open science
 links:
 - name: URL
-  url: https://zenodo.org/doi/10.5281/zenodo.10685209
+  url: https://doi.org/10.5281/zenodo.10685209
 ---
