@@ -9,11 +9,11 @@ sections:
     content:
       title: PID4NFDI
       image:
-        filename: pid4nfdi.png
+        filename: pid4nfdi_small.png
       text: |
-        PID4NFDI is a basic service for persistent identifiers in development for Germany's national research data infrastructure, the [Nationale Forschungsdateninfrastruktur (NFDI)](https://www.nfdi.de/?lang=en). PID4NFDI is part of [Base4NFDI](https://base4nfdi.de/) and is currently in its initialisation phase, the first of three service development phases.
+        PID4NFDI is a basic service for persistent identifiers in development for the German National Research Data Infrastructure, the [Nationale Forschungsdateninfrastruktur (NFDI)](https://www.nfdi.de/?lang=en). PID4NFDI is part of [Base4NFDI](https://base4nfdi.de/) and is currently in its initialisation phase, the first of three service development phases.
 
-        Persistent identifiers (PIDs) are central to FAIR research data management. However, different disciplines and different resources result in diverse requirements and the different NFDI consortia have different levels of maturity in PID implementation. PID4NFDI will design a work programme to build an NFDI foundation service on established PID infrastructures.
+        {{< cta cta_text="Read more →" cta_link="./about/" cta_new_tab="false" >}}
   
   - block: collection
     content:
@@ -54,6 +54,7 @@ sections:
       subtitle:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./contact/" cta_text="Contact us →" %}}
     design:
       columns: '1'
 ---
