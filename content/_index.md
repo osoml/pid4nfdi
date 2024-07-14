@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-07-12
+date: 2024-07-15
 type: landing
 
 sections:
@@ -9,11 +9,11 @@ sections:
     content:
       title: PID4NFDI
       image:
-        filename: pid4nfdi_small.png
+        filename: pid4nfdi_small.jpg
       text: |
         PID4NFDI is a basic service for persistent identifiers in development for the German National Research Data Infrastructure, the [Nationale Forschungsdateninfrastruktur (NFDI)](https://www.nfdi.de/?lang=en). PID4NFDI is part of [Base4NFDI](https://base4nfdi.de/) and is currently in its initialisation phase, the first of three service development phases.
 
-        {{< cta cta_text="Read more →" cta_link="./about/" cta_new_tab="false" >}}
+        {{% cta cta_link="./about/" cta_text="Read more →" %}}
   
   - block: collection
     content:
