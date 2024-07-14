@@ -3,7 +3,6 @@ title: Isn't a number and a URL enough? Why PIDs matter and technical solutions 
 authors:
 - Antonia C. Schrader
 - stephanie
-- Andreas Czerniak
 date: '2023-09-08‘
 publishDate: '2024-07-12'
 publication: Zenodo
