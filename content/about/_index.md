@@ -27,7 +27,7 @@ sections:
 
         Role of Metadata for providing context information
 
-        {{< video src="https://zenodo.org/records/3977942/files/FREYA%20-%20The%20power%20of%20PIDs%20-%20V05_1.mp4" controls="yes" >}}
+        {{< video src="https://zenodo.org/records/3977942/files/FREYA%20-%20The%20power%20of%20PIDs%20-%20V05_1.mp4" controls="yes" caption="[_The power of PIDs_](https://doi.org/10.5281/zenodo.3977942), by the [FREYA project](https://www.project-freya.eu/)" >}}
 
     design:
       columns: '1'
