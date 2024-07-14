@@ -9,11 +9,37 @@ sections:
       title: What is PID4NFDI?
       subtitle: Persistent Identifier Services for the German National Research Data Infrastructure (NFDI)
       text: |
-        Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+        PID4NFDI is a basic service for persistent identifiers in development for the German National Research Data Infrastructure ([Nationale Forschungsdaten&shy;infrastruktur – NFDI](https://www.nfdi.de/?lang=en)). PID4NFDI is part of [Base4NFDI](https://base4nfdi.de/) and is currently in its initialisation phase, the first of three service development phases.
 
-        PID4NFDI is a basic service for persistent identifiers in development for Germany's national research data infrastructure, the [Nationale Forschungsdateninfrastruktur (NFDI)](https://www.nfdi.de/?lang=en). PID4NFDI is part of [Base4NFDI](https://base4nfdi.de/) and is currently in its initialisation phase, the first of three service development phases.
+        ![Logo of PID4NFDI](pid4nfdi_small.jpg)
 
         Persistent identifiers (PIDs) are central to FAIR research data management. However, different disciplines and different resources result in diverse requirements and the different NFDI consortia have different levels of maturity in PID implementation. PID4NFDI will design a work programme to build an NFDI foundation service on established PID infrastructures.
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: What are PIDs?
+      text: |
+        A persistent identifier, or short PID, is …
+        
+        How do they contribute to FAIR RDM?
+        
+        What resource types/entities are covered by PIDs?
+
+        Role of Metadata for providing context information
+
+        {{< video src="https://zenodo.org/records/3977942/files/FREYA%20-%20The%20power%20of%20PIDs%20-%20V05_1.mp4" controls="yes" >}}
+
+    design:
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: What are the goals, projects and services of PID4NFDI?
+      text: |
+        main goals of PID4NFDI in general (vision), main WPs of Initialisation phase, rudimentary information on how PID4NFDI is located within BASE4NFDI
+
     design:
       columns: '1'
 
