@@ -20,15 +20,24 @@ sections:
     
       # Automatically link email and phone or display as text?
       autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+
+    design:
+      columns: '1'
+
+  - block: contact
+    content:
+      title: Imprint
+      subtitle: Technische Informationsbibliothek (TIB)
+      #text: |
+        #Imprint information …
+      email: information@tib.eu
+      address:
+        street: Welfengarten 1 B
+        city: Hannover
+        #region: Niedersachsen
+        postcode: '30167'
+        country: Germany
+        country_code: DE
     design:
       columns: '1'
 ---
