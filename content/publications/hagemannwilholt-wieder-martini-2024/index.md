@@ -6,7 +6,7 @@ authors:
 - Daniel Martini
 - Matthias Lange
 date: '2024-02-20'
-publishDate: '2024-07-12'
+publishDate: '2024-07-15'
 publication: Zenodo
 publication_types:
 - document

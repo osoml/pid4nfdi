@@ -24,7 +24,7 @@ date_end: '2024-10-23T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-07-12T00:00:00Z'
+publishDate: '2024-07-15T00:00:00Z'
 
 tags: ["EOSC"]
 

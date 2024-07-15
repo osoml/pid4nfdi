@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2024-07-12
+date: 2024-07-15
 type: landing
 
 sections:

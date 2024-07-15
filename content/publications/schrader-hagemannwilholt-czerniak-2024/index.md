@@ -5,7 +5,8 @@ authors:
 - stephanie
 - Andreas Czerniak
 date: '2023-09-08'
-publishDate: '2024-07-12'
+publishDate: '2024-07-15'
+publication: Zenodo
 publication_types:
 - document
 doi: '10.5281/zenodo.8328807'
