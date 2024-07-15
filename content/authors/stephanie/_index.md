@@ -42,12 +42,12 @@ social:
   - icon: ror
     icon_pack: ai
     link: https://ror.org/04aj4c181
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:stephanie.hagemann@tib.eu'
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-0474-2410
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:stephanie.hagemann@tib.eu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

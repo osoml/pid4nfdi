@@ -14,7 +14,7 @@ role: Principal investigator (interim)
 
 # Organizations/Affiliations
 organizations:
-  - name: Helmholtz Open Science Office
+  - name: Helmholtz Association, Helmholtz Open Science Office
     url: 'https://os.helmholtz.de/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -39,12 +39,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:marcel.meistring@os.helmholtz.de'
+  - icon: ror
+    icon_pack: ai
+    link: https://ror.org/0281dp749
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-6347-9926
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:marcel.meistring@os.helmholtz.de'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

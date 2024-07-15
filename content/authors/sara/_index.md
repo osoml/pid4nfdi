@@ -39,12 +39,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:sara.elgebali@datacite.org'
+  - icon: ror
+    icon_pack: ai
+    link: https://ror.org/04wxnsj81
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-1378-5495
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:sara.elgebali@datacite.org'
   - icon: github
     icon_pack: fab
     link: https://www.github.com/selgebali
