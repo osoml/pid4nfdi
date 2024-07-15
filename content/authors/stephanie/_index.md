@@ -14,7 +14,7 @@ role: Project team member
 
 # Organizations/Affiliations
 organizations:
-  - name: German National Library of Science and Technology (TIB)
+  - name: German National Library of Science and Technology (TIB) {{< icon name="ror" >}}
     url: 'https://www.tib.eu/'
 
 # Short bio (displayed in user profile at end of posts)
