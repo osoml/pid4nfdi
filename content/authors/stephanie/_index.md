@@ -14,8 +14,9 @@ role: Project team member
 
 # Organizations/Affiliations
 organizations:
-  - name: German National Library of Science and Technology (TIB) {{< icon name="ror" >}}
+  - name: German National Library of Science and Technology (TIB)
     url: 'https://www.tib.eu/'
+  - icon: ror
 
 # Short bio (displayed in user profile at end of posts)
 bio: Stephanie works at the German National Library of Science and Technology (TIB) and is a project team member of PID4NFDI.
