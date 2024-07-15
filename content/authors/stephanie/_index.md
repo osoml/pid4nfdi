@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.tib.eu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Stephanie works at the German National Library of Science and Technology (TIB){{< icon name="ror" >}}{{< icon name="ai/ror" >}} and is a project team member of PID4NFDI.
+bio: Stephanie works at the German National Library of Science and Technology (TIB) and is a project team member of PID4NFDI.
 
 interests:
   - tba
@@ -39,6 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: ror
+    icon_pack: ai
+    link: https://ror.org/04aj4c181
   - icon: envelope
     icon_pack: fas
     link: 'mailto:stephanie.hagemann@tib.eu'
