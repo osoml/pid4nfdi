@@ -27,10 +27,7 @@ sections:
   - block: contact
     content:
       title: Imprint
-      subtitle: Technische Informationsbibliothek (TIB)
-      #text: |
-        #Imprint information …
-      email: information@tib.eu
+      directions:: Technische Informationsbibliothek (TIB)
       address:
         street: Welfengarten 1 B
         city: Hannover
@@ -38,6 +35,7 @@ sections:
         postcode: '30167'
         country: Germany
         country_code: DE
+      email: information@tib.eu
     design:
       columns: '1'
 ---
