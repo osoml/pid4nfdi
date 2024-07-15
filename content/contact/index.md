@@ -27,7 +27,7 @@ sections:
   - block: contact
     content:
       title: Imprint
-      directions:: Technische Informationsbibliothek (TIB)
+      directions: Technische Informationsbibliothek (TIB)
       address:
         street: Welfengarten 1 B
         city: Hannover
