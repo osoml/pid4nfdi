@@ -73,7 +73,7 @@ main:
     weight: 600
   - name: PID4NFDI
     parent: about
-    url: pid4nfdi
+    url: about/pid4nfdi
     weight: 10
   - name: Team
     parent: about
@@ -81,7 +81,7 @@ main:
     weight: 20
   - name: Contact
     parent: about
-    url: contact
+    url: about/contact
     weight: 30
   - name: Imprint
     parent: about
