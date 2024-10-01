@@ -20,20 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Sara works at DataCite and is a project team member of PID4NFDI.
 
-interests:
-  - tba
-  - tba
-  - tba
-
-education:
-  courses:
-    - course: tba
-      institution: tba
-      year: 2000
-    - course: tba
-      institution: tba
-      year: 2000
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -45,18 +31,6 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-1378-5495
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:sara.elgebali@datacite.org'
-  - icon: github
-    icon_pack: fab
-    link: https://www.github.com/selgebali
-  - icon: mastodon
-    icon_pack: brands
-    link: https://fairpoints.social/@yalahowy
-  - icon: linkedin
-    icon_pack: brands
-    links: https://www.linkedin.com/in/selgebali/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,4 +49,4 @@ user_groups:
   - Project Team Members
 ---
 
-Sara works at DataCite and is a project team member of PID4NFDI.
+Sara works at DataCite and is a project team member of PID4NFDI. Check [Sara's ORCID record](https://orcid.org/0000-0003-1378-5495) for more information.

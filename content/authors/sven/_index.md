@@ -10,7 +10,7 @@ last_name: Bingert
 superuser: false
 
 # Role/position
-role: Principial investigator and project team member
+role: Principial investigator
 
 # Organizations/Affiliations
 organizations:
@@ -19,20 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Sven works at the Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG) and is a principal investigator and project team member of PID4NFDI.
-
-interests:
-  - tba
-  - tba
-  - tba
-
-education:
-  courses:
-    - course: tba
-      institution: tba
-      year: 2000
-    - course: tba
-      institution: tba
-      year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,15 +31,6 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-9547-1582
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:sven.bingert@gwdg.de'
-  - icon: researcherid
-    icon_pack: ai
-    link: http://www.researcherid.com/rid/S-5704-2017
-  - icon: scopus
-    icon_pack: ai
-    link: https://www.scopus.com/authid/detail.uri?authorId=8576427200
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,7 +47,6 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
-  - Project Team Members
 ---
 
-Sven works at the Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG) and is a principal investigator and project team member of PID4NFDI.
+Sven works at the Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG) and is a principal investigator and project team member of PID4NFDI. Check [Sven's ORCID record](https://orcid.org/0000-0001-9547-1582) for more information.

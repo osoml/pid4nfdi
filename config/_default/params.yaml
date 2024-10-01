@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: 
   font: native
   font_size: M
 
@@ -41,17 +41,23 @@ header:
     show_search: true
     show_theme_chooser: true
     highlight_active_link: true
+    logo:
+        text: ''
+        filename: 'icon.png'
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} PID4NFDI (Base4NFDI). This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: true
-      share_alike: true
-      allow_commercial: true
+    notice: '© {year} PID4NFDI, [Base4NFDI](https://www.base4nfdi.de). <br>
+    Funded by DFG as part of [NFDI](https://www.nfdi.de). <br>
+    Grant Numbers: 521453681, 521460392, 521462155, 521463400, 521466146, 521471126, 521473512, 521474032, 521475185, 521476232. <br><br>
+    [Contact](/contact) | [Legal Notice](https://www.base4nfdi.de) | [Privacy](https://www.base4nfdi.de) | [Accessibility](https://www.base4nfdi.de)'
+#    license:
+#      enable: true
+#      allow_derivatives: true
+#      share_alike: true
+#      allow_commercial: true
 
 # Localization
 
