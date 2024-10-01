@@ -77,7 +77,7 @@ main:
     weight: 10
   - name: Team
     parent: about
-    url: team
+    url: about/team
     weight: 20
   - name: Contact
     parent: about
