@@ -6,37 +6,84 @@
 main:
   - name: Home
     url: /
-    weight: 10
-  - name: Get your PID
+    weight: 100
+  - name: Get a PID
     identifier: get-pid
     url: get-pid
-    weight: 20
+    weight: 200
   - name: How to Start
     parent: get-pid
     url: start
     weight: 10
-  - name: PID Services and Provider
+  - name: Services and Provider
     parent: get-pid
     url: services-provider
     weight: 20
-  - name: Publications
-    url: publications
+  - name: Services
+    identifier: services
+    url: services
+    weight: 300
+  - name: Metadata Support and Assessment
+    parent: services
+    url: metadata-support-assessment
+    weight: 10
+  - name: Datatype Registry
+    parent: services
+    url: datatype-registry
+    weight: 20
+  - name: Resources
+    identifier: resources
+    url: resources
+    weight: 400
+  - name: Training Material
+    parent: resources
+    url: training-material
+    weight: 10
+  - name: PID Policies
+    parent: resources
+    url: pid-policies
+    weight: 20
+  - name: Best Practice
+    parent: resources
+    url: best-practice
     weight: 30
-#  - name: Training Material
-#    url: training-material
-#    weight: 40
-#  - name: Best Practice
-#    url: best-practice
-#    weight: 50
-#  - name: PID Services/Provider
-#    url: pid-services-provider
-#    weight: 60
+  - name: Standards and Schemes
+    parent: resources
+    url: standards-schemes
+    weight: 40
+  - name: Publications
+    parent: resources
+    url: publications
+    weight: 50
+  - name: News
+    identifier: news
+    url: news
+    weight: 500
+  - name: Blog
+    parent: news
+    url: blog
+    weight: 10
   - name: Events
-    url: event
-    weight: 70
-  - name: People
-    url: people
-    weight: 80
+    parent: news
+    url: events
+    weight: 20
+  - name: About
+    identifier: about
+    url: about
+    weight: 600
+  - name: PID4NFDI
+    parent: about
+    url: pid4nfdi
+    weight: 10
+  - name: Team
+    parent: about
+    url: team
+    weight: 20
   - name: Contact
+    parent: about
     url: contact
-    weight: 90
+    weight: 30
+  - name: Imprint
+    parent: about
+    url: imprint
+    weight: 40
