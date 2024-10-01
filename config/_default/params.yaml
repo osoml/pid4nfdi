@@ -79,7 +79,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/osoml/pid4nfdi'
+    url: ''
     content_dir: content
     branch: main
   avatar:
