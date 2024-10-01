@@ -69,9 +69,9 @@ sections:
       subtitle: PID4NFDI – Persistent Identifier Services for the German National Research Data Infrastructure
       text: |
         {{% cta cta_link="./about/" cta_text="More about the project" %}}
-        {{% cta cta_link="./publications/" cta_text="Latest publications" %}}
-        {{% cta cta_link="./people/" cta_text="Meet the team" %}}
-        {{% cta cta_link="./contact/" cta_text="Contact us" %}}
+        {{% cta cta_link="./resources/publications/" cta_text="Latest publications" %}}
+        {{% cta cta_link="./about/team/" cta_text="Meet the team" %}}
+        {{% cta cta_link="./about/contact/" cta_text="Contact us" %}}
     design:
       columns: '1'
 ---

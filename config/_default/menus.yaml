@@ -73,7 +73,7 @@ main:
     weight: 600
   - name: What is PID4NFDI?
     parent: about
-    url: about/what-is-pid4nfdi
+    url: about
     weight: 10
   - name: Team
     parent: about
