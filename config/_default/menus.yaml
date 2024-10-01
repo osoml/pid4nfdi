@@ -4,12 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About
-    url: about
+  - name: Home
+    url: /
     weight: 10
-#  - name: Blog
-#    url: blog
-#    weight: 20
+  - name: Get your PID
+    identifier: get-pid
+    url: get-pid
+    weight: 20
+  - name: How to Start
+    parent: get-pid
+    url: start
+    weight: 10
+  - name: PID Services and Provider
+    parent: get-pid
+    url: services-provider
+    weight: 20
   - name: Publications
     url: publications
     weight: 30
