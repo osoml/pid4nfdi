@@ -12,12 +12,11 @@ sections:
 #           filename: pid4nfdi_small.jpg
         text: |
             is a basic service for persistent identifiers (PIDs) in development for the German National Research Data Infrastructure ([Nationale Forschungsdaten&shy;infrastruktur – NFDI](https://www.nfdi.de/?lang=en)). We are currently working on building a NFDI foundation service on established PID infrastructures to offer various services related to PIDs for stakeholders in the NFDI.
-        primary_action:
-            text: Get a PID
+        cta:
+            label: Get a PID
             url: ./get-pid/
-            icon: sparkles
-        secondary_action:
-            text: Resources
+        cta_alt:
+            label: Resources
             url: ./resources/
 #    announcement:
 #        text: Announcing the release of version 1.
