@@ -7,13 +7,24 @@ type: landing
 sections:
   - block: hero
     content:
-      title: PID4NFDI
-      image:
-        filename: pid4nfdi_small.jpg
+      title: Our Services
+#      image:
+#        filename: pid4nfdi_small.jpg
       text: |
         … is a basic service for persistent identifiers (PIDs) in development for the German National Research Data Infrastructure ([Nationale Forschungsdaten&shy;infrastruktur – NFDI](https://www.nfdi.de/?lang=en)). We are currently working on building a NFDI foundation service on established PID infrastructures to offer various services related to PIDs for stakeholders in the NFDI.
-
-        {{% cta cta_link="./about/" cta_text="Read more" %}}
+    primary_action:
+        text: Get a PID
+        url: ./get-pid/
+        icon: sparkles
+    secondary_action:
+        text: Resources
+        url: ./resources/
+#    announcement:
+#        text: Announcing the release of version 1.
+#        link:
+#            text: Read more
+#            url: https://example.com
+#        {{% cta cta_link="./about/" cta_text="Read more" %}}
   
   - block: markdown
     content:
@@ -65,13 +76,15 @@ sections:
 
   - block: markdown
     content:
-      title: About
-      subtitle: PID4NFDI – Persistent Identifier Services for the German National Research Data Infrastructure
-      text: |
-        {{% cta cta_link="./about/" cta_text="More about the project" %}}
-        {{% cta cta_link="./resources/publications/" cta_text="Latest publications" %}}
-        {{% cta cta_link="./about/team/" cta_text="Meet the team" %}}
-        {{% cta cta_link="./about/contact/" cta_text="Contact us" %}}
+        title: About
+        subtitle: PID4NFDI – Persistent Identifier Services for the German National Research Data Infrastructure
+        image:
+            filename: pid4nfdi_small.jpg
+        text: |
+            {{% cta cta_link="./about/" cta_text="More about the project" %}}
+            {{% cta cta_link="./resources/publications/" cta_text="Latest publications" %}}
+            {{% cta cta_link="./about/team/" cta_text="Meet the team" %}}
+            {{% cta cta_link="./about/contact/" cta_text="Contact us" %}}
     design:
-      columns: '1'
+        columns: '1'
 ---
