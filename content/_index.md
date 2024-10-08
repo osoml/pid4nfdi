@@ -15,21 +15,15 @@ sections:
         cta:
             label: Get a PID
             url: ./get-pid/
-        cta:
-            label: Test
-            url: ./test/
         cta_alt:
             label: Resources
             url: ./resources/
-        cta_alt:
-            label: Test
-            url: ./test/
-#    announcement:
-#        text: Announcing the release of version 1.
-#        link:
-#            text: Read more
-#            url: https://example.com
-#        {{% cta cta_link="./about/" cta_text="Read more" %}}
+    announcement:
+        text: Announcing the release of version 1.
+        link:
+            text: Read more
+            url: https://example.com
+	        {{% cta cta_link="./about/" cta_text="Read more" %}}
   
   - block: markdown
     content:
