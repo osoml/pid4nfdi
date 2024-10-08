@@ -10,10 +10,8 @@ sections:
         title: Our Services
         image:
             filename: pid4nfdi_small.jpg
-        text: |
-            {{< icon name="terminal" pack="fas" >}} Find an appropriate PID and PID provider for your use case
-            
-            {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" icon="fas arrow">}}
+        text: | 
+            {{< cta cta_text="Find an appropriate PID and PID provider for your use case" cta_link="/" cta_new_tab="false">}}
             
             {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" cta_alt_text="Alternative action" cta_alt_link="/" cta_alt_new_tab="false" >}}
   
@@ -65,18 +63,18 @@ sections:
 #      view: list
 #      columns: '1'
 
-#  - block: collection
-#    content:
-#      title: Upcoming Events
-#      text: ""
-#      count: 3
-#      filters:
-#        folders:
-#          - news/events
-#        #publication_type: 'event'
-#    design:
-#      view: list
-#      columns: '1'
+  - block: collection
+    content:
+        title: Upcoming Events
+        text: ""
+        count: 3
+        filters:
+            folders:
+            - news/events
+            #publication_type: 'event'
+    design:
+        view: list
+        columns: '1'
 
   - block: markdown
     content:
