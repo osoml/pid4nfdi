@@ -17,6 +17,34 @@ sections:
             
             {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" cta_alt_text="Alternative action" cta_alt_link="/" cta_alt_new_tab="false" >}}
   
+  - block: buttons
+    content:
+      buttons:
+        - title: Read my latest paper on LLMs
+          icon: brands/arxiv
+          url: https://arxiv.org/abs/2304.01852
+        - title: Watch my new YouTube video to achieve 20x productivity
+          icon: brands/youtube
+          url: https://youtube.com
+        - title: Connect with me on LinkedIn
+          icon: brands/linkedin
+          url: https://linkedin.com
+
+  - block: cta-button-list
+    content:
+      # Need a custom icon?
+      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
+      buttons:
+        - text: Read my latest paper on LLMs
+          icon: academicons/arxiv
+          url: https://arxiv.org/abs/2304.01852
+        - text: Watch my new YouTube video to achieve 20x productivity
+          icon: brands/youtube
+          url: https://youtube.com
+        - text: Connect with me on LinkedIn
+          icon: brands/linkedin
+          url: https://linkedin.com
+  
   - block: markdown
     content:
         title: What are PIDs?
