@@ -83,7 +83,6 @@ sections:
             {{% cta cta_link="./resources/publications/" cta_text="Latest publications" %}}
             {{% cta cta_link="./about/team/" cta_text="Meet the team" %}}
             {{% cta cta_link="./about/contact/" cta_text="Contact us" %}}
-#            ![logo of PID4NFDI (reading 'PID4NFDI – Persistent Identifier Services for the German National Research Data Infrastructure' with a light blue map waypoint marker below, set on blue-grey background)](pid4nfdi_small.jpg)
             {{< figure src="pid4nfdi_small.jpg" alt="logo of PID4NFDI (reading 'PID4NFDI – Persistent Identifier Services for the German National Research Data Infrastructure' with a light blue map waypoint marker below, set on blue-grey background)" class="centerimg" >}}
     design:
         columns: '1'
