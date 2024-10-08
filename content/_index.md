@@ -10,7 +10,6 @@ sections:
         title: Our Services
         text: | 
             {{< cta cta_text="Get started, get a PID" cta_link="./get-pid/start" cta_new_tab="false" cta_alt_text="Find a PID provider" cta_alt_link="./get-pid/services-provider" cta_alt_new_tab="false" >}}
-            {{< cta_alt_text="Find a PID provider" cta_alt_link="./get-pid/services-provider" cta_alt_new_tab="false" >}}
             {{< cta cta_text="Find an appropriate PID and PID provider for your use case" cta_link="/" cta_new_tab="false">}}
   
   - block: markdown
