@@ -8,12 +8,10 @@ sections:
   - block: markdown
     content:
         title: Our Services
-        image:
-            filename: pid4nfdi_small.jpg
         text: | 
+            {{< cta cta_text="Get started, get a PID" cta_link="./get-pid/start" cta_new_tab="false" cta_alt_text="Find a PID provider" cta_alt_link="./get-pid/services-provider" cta_alt_new_tab="false" >}}
+            {{< cta_alt_text="Find a PID provider" cta_alt_link="./get-pid/services-provider" cta_alt_new_tab="false" >}}
             {{< cta cta_text="Find an appropriate PID and PID provider for your use case" cta_link="/" cta_new_tab="false">}}
-            
-            {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" cta_alt_text="Alternative action" cta_alt_link="/" cta_alt_new_tab="false" >}}
   
   - block: markdown
     content:
@@ -70,7 +68,7 @@ sections:
         count: 3
         filters:
             folders:
-                - news/events
+                - ./news/events
     design:
         view: compact
 
@@ -83,8 +81,7 @@ sections:
             {{% cta cta_link="./resources/publications/" cta_text="Latest publications" %}}
             {{% cta cta_link="./about/team/" cta_text="Meet the team" %}}
             {{% cta cta_link="./about/contact/" cta_text="Contact us" %}}
-            ![logo of PID4NFDI (reading 'PID4NFDI – Persistent Identifier Services for the German National Research Data Infrastructure' with a light blue map waypoint marker below, set on blue-grey background)](pid4nfdi_small.jpg "caption")
-            {{< figure src="pid4nfdi_small.jpg" caption="caption" numbered="true" >}}
+            ![logo of PID4NFDI (reading 'PID4NFDI – Persistent Identifier Services for the German National Research Data Infrastructure' with a light blue map waypoint marker below, set on blue-grey background)](pid4nfdi_small.jpg)
     design:
         columns: '1'
 ---
