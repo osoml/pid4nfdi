@@ -5,11 +5,11 @@ date: 2024-07-15
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
         title: Our Services
-#       image:
-#           filename: pid4nfdi_small.jpg
+       image:
+           filename: pid4nfdi_small.jpg
         text: |
             is a basic service for persistent identifiers (PIDs) in development for the German National Research Data Infrastructure ([Nationale Forschungsdaten&shy;infrastruktur – NFDI](https://www.nfdi.de/?lang=en)). We are currently working on building a NFDI foundation service on established PID infrastructures to offer various services related to PIDs for stakeholders in the NFDI.
         cta:
@@ -18,12 +18,6 @@ sections:
         cta_alt:
             label: Resources
             url: ./resources/
-    announcement:
-        text: Announcing the release of version 1.
-        link:
-            text: Read more
-            url: https://example.com
-	        {{% cta cta_link="./about/" cta_text="Read more" %}}
   
   - block: markdown
     content:
@@ -69,6 +63,19 @@ sections:
 #        folders:
 #          - publications
 #        #publication_type: 'article'
+#    design:
+#      view: list
+#      columns: '1'
+
+#  - block: collection
+#    content:
+#      title: Upcoming Events
+#      text: ""
+#      count: 3
+#      filters:
+#        folders:
+#          - news/events
+#        #publication_type: 'event'
 #    design:
 #      view: list
 #      columns: '1'
