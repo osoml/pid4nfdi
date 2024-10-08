@@ -70,23 +70,21 @@ sections:
         count: 3
         filters:
             folders:
-            - news/events
-            #publication_type: 'event'
+                - news/events
     design:
-        view: list
-        columns: '1'
+        view: compact
 
   - block: markdown
     content:
         title: About
         subtitle: PID4NFDI – Persistent Identifier Services for the German National Research Data Infrastructure
-        image:
-            filename: pid4nfdi_small.jpg
         text: |
             {{% cta cta_link="./about/" cta_text="More about the project" %}}
             {{% cta cta_link="./resources/publications/" cta_text="Latest publications" %}}
             {{% cta cta_link="./about/team/" cta_text="Meet the team" %}}
             {{% cta cta_link="./about/contact/" cta_text="Contact us" %}}
+            ![logo of PID4NFDI (reading 'PID4NFDI – Persistent Identifier Services for the German National Research Data Infrastructure' with a light blue map waypoint marker below, set on blue-grey background)](pid4nfdi_small.jpg "caption")
+            {{< figure src="pid4nfdi_small.jpg" caption="caption" numbered="true" >}}
     design:
         columns: '1'
 ---
