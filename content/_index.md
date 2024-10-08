@@ -13,7 +13,7 @@ sections:
         text: |
             is a basic service for persistent identifiers (PIDs) in development for the German National Research Data Infrastructure ([Nationale Forschungsdaten&shy;infrastruktur – NFDI](https://www.nfdi.de/?lang=en)). We are currently working on building a NFDI foundation service on established PID infrastructures to offer various services related to PIDs for stakeholders in the NFDI.
             
-            {{< cta cta_text="{{< icon name="terminal" pack="fas" >}} Do something" cta_link="/" cta_new_tab="false" >}}
+            {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" icon="fas arrow">}}
             
             {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" cta_alt_text="Alternative action" cta_alt_link="/" cta_alt_new_tab="false" >}}
   
@@ -27,7 +27,7 @@ sections:
 
             You can learn more about PIDs, their use cases and technical implementation at our partners [PID Network Germany](https://www.pid-network.de/en/) and the [PID Competence Center of TIB](https://projects.tib.eu/pid-service/en/persistent-identifiers/persistent-identifiers-pids/). Or watch this introductory video [_The power of PIDs_](https://doi.org/10.5281/zenodo.3977942) by the [FREYA project](https://www.project-freya.eu/):
         
-            {{< video src="https://zenodo.org/records/3977942/files/FREYA%20-%20The%20power%20of%20PIDs%20-%20V05_1.mp4" controls="yes" >}}
+            {{< video src="FREYA_The_power_of_PIDs_540p.mp4" controls="yes" >}}
 
     design:
         columns: '1'
