@@ -66,16 +66,16 @@ sections:
 #      view: list
 #      columns: '1'
 
-  - block: collection
-    content:
-        title: Upcoming Events
-        text: ""
-        count: 3
-        filters:
-            folders:
-                - ./news/events
-    design:
-        view: compact
+#  - block: collection
+#    content:
+#        title: Upcoming Events
+#        text: ""
+#        count: 3
+#        filters:
+#            folders:
+#                - events
+#    design:
+#        view: compact
 
   - block: markdown
     content:
