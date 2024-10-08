@@ -13,7 +13,7 @@ sections:
         text: |
             is a basic service for persistent identifiers (PIDs) in development for the German National Research Data Infrastructure ([Nationale Forschungsdaten&shy;infrastruktur – NFDI](https://www.nfdi.de/?lang=en)). We are currently working on building a NFDI foundation service on established PID infrastructures to offer various services related to PIDs for stakeholders in the NFDI.
             
-            {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
+            {{< cta cta_text="{{< icon name="terminal" pack="fas" >}} Do something" cta_link="/" cta_new_tab="false" >}}
             
             {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" cta_alt_text="Alternative action" cta_alt_link="/" cta_alt_new_tab="false" >}}
   
