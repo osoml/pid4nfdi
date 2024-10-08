@@ -10,15 +10,11 @@ sections:
         title: Persistent Identifier Services for NFDI
         text: | 
             {{< cta cta_text="Get started, get a PID" cta_link="./get-pid/start" cta_new_tab="false" cta_alt_text="Find a PID provider" cta_alt_link="./get-pid/services-provider" cta_alt_new_tab="false" >}}
-
-  - block: markdown
-    content:
-        title: More Services and Resources
-        text: | 
+            
             {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="Seek support in enhancing your PID metadata" cta_alt_link="./services/metadata-support-assessment" cta_alt_new_tab="false" >}}
             {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="See how others solved their PID challenges" cta_alt_link="./resources/best-practice" cta_alt_new_tab="false" >}}
             {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="Review requirements, good-practice and policies on PID usage" cta_alt_link="./resources/policies" cta_alt_new_tab="false" >}}
-            {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="Learn more about PIDs and find training resources" cta_alt_link="./resources/training-material" cta_alt_new_tab="false" >}}
+            {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="Learn more about PIDs and find training resources" cta_alt_link="./resources/training-material" cat_alt_new_tab="false" >}}
   
   - block: markdown
     content:
