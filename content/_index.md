@@ -11,7 +11,9 @@ sections:
         text: | 
             {{< cta cta_text="Get started, get a PID" cta_link="./get-pid/start" cta_new_tab="false" cta_alt_text="Find a PID provider" cta_alt_link="./get-pid/services-provider" cta_alt_new_tab="false" >}}
             {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="Seek support in enhancing your PID metadata" cta_alt_link="./services/metadata-support-assessment" cta_alt_new_tab="false" >}}
-            {{< cta cta_text="Find an appropriate PID and PID provider for your use case" cta_link="/" cta_new_tab="false">}}
+            {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="See how others solved their PID challenges" cta_alt_link="./resources/best-practice" cta_alt_new_tab="false" >}}
+            {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="Review requirements, good-practice and policies on PID usage" cta_alt_link="./resources/policies" cta_alt_new_tab="false" >}}
+            {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="Learn more about PIDs and find training resources" cta_alt_link="./resources/training-material" cta_alt_new_tab="false" >}}
   
   - block: markdown
     content:
@@ -82,6 +84,7 @@ sections:
             {{% cta cta_link="./about/team/" cta_text="Meet the team" %}}
             {{% cta cta_link="./about/contact/" cta_text="Contact us" %}}
             ![logo of PID4NFDI (reading 'PID4NFDI – Persistent Identifier Services for the German National Research Data Infrastructure' with a light blue map waypoint marker below, set on blue-grey background)](pid4nfdi_small.jpg)
+            {{< figure src="pid4nfdi_small.jpg" alt="logo of PID4NFDI (reading 'PID4NFDI – Persistent Identifier Services for the German National Research Data Infrastructure' with a light blue map waypoint marker below, set on blue-grey background)" class="centerimg" >}}
     design:
         columns: '1'
 ---

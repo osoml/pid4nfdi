@@ -39,13 +39,13 @@ main:
     parent: resources
     url: resources/training-material
     weight: 10
-  - name: Policies
-    parent: resources
-    url: resources/policies
-    weight: 20
   - name: Best Practice
     parent: resources
     url: resources/best-practice
+    weight: 20
+  - name: Policies
+    parent: resources
+    url: resources/policies
     weight: 30
   - name: Standards and Schemes
     parent: resources
