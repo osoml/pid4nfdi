@@ -3,6 +3,15 @@
 title:
 date: 2024-07-15
 type: landing
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
+  - icon_pack: fab
+    icon: medium
+    name: Originally published on Medium
+    url: 'https://medium.com'
 
 sections:
   - block: markdown
@@ -12,12 +21,6 @@ sections:
             filename: pid4nfdi_small.jpg
         text: |
             is a basic service for persistent identifiers (PIDs) in development for the German National Research Data Infrastructure ([Nationale Forschungsdaten&shy;infrastruktur – NFDI](https://www.nfdi.de/?lang=en)). We are currently working on building a NFDI foundation service on established PID infrastructures to offer various services related to PIDs for stakeholders in the NFDI.
-        cta:
-            label: Get a PID
-            url: ./get-pid/
-        cta_alt:
-            label: Resources
-            url: ./resources/
   
   - block: markdown
     content:
