@@ -21,8 +21,24 @@ sections:
       text: |
         PID4NFDI aims to enhance PID integration within NFDI consortia, considering varying provider maturity levels and community adaption. Our goal is to boost PID impact by improving metadata quality and interoperability through technical, organisational, and strategic measures. Governance guidelines, outreach efforts, and a modular training concept will promote PID awareness and adoption across disciplines, prototyped collaboratively with consortia partners to ensure broad applicability within NFDI. The interoperability, metadata, governance, training/support and community engagement components will together form the PID Coordination Hub, which will be a central entry point for users of the PID4NFDI service portfolio.
 
-        PID4NFDI is organized internally by different work packages that cover these measures and areas of engagement. We operate as part of [Base4NFDI](https://base4nfdi.de/), a joint initiative of all 26 consortia within NFDI to foster and establish reliable NFDI-wide basic services, and are one of [several basic services in development](https://base4nfdi.de/projects). 
+        PID4NFDI is organized internally by different work packages that cover these measures and areas of engagement. We operate as part of [Base4NFDI](https://base4nfdi.de/), a joint initiative of all 26 consortia within NFDI to foster and establish reliable NFDI-wide basic services, and are one of [several basic services in development](https://base4nfdi.de/projects).
 
+  - block: markdown
+    content:
+      title: Who are our stakeholders?
+      text: |
+        Intro text …
+        
+        ```mermaid
+            mindmap
+                root((PID4NFDI))
+                    NFDI
+                        NFDI consortia
+                        Base4NFDI
+                        NFDI sections and working groups
+                    EOSC
+                    funders
+        ```
     design:
       columns: '1'
 
