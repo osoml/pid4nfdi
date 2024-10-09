@@ -22,10 +22,13 @@ sections:
             The [FAIR-Checker](https://fair-checker.france-bioinformatique.fr) makes use of semantic web technologies to check if metadata is compliant with the FAIR principles. It was developed by the [French Institute for Bioinformatics](https://www.france-bioinformatique.fr/en/home/).
             
             ### [F-UJI FAIR Assessment](https://www.f-uji.net/?action=test)
-            The [F-UJI FAIR Assessment](https://www.f-uji.net/?action=test) assesses the FAIRness of research data objects (datasets) based on metrics developed by the [FAIRsFAIR project](https://www.fairsfair.eu). It only requires a PID or URL of the dataset which is to be assessed.
+            [F-UJI FAIR Assessment](https://www.f-uji.net/?action=test) assesses the FAIRness of research data objects (datasets) based on metrics developed by the [FAIRsFAIR project](https://www.fairsfair.eu). It only requires a PID or URL of the dataset which is to be assessed.
             
             ### [ARDC FAIR Data Self Assessment Tool](https://ardc.edu.au/resource/fair-data-self-assessment-tool/)
             The [ARDC FAIR Data Self Assessment Tool](https://ardc.edu.au/resource/fair-data-self-assessment-tool/) assesses how FAIR your research dataset is and gives practical tips on how to enhance its FAIRness. It is developed by the [Australian Research Data Commons (ARDC)](https://ardc.edu.au/).
+            
+            ### [FAIR Enough](https://fair-enough.semanticscience.org)
+            [FAIR Enough](https://fair-enough.semanticscience.org) checks if and how much online resources follow the FAIR principles. It is developed by the [Institute of Data Science](https://www.maastrichtuniversity.nl/research/institute-data-science) at Maastricht University.
             
             ### [FAIR Evaluation Services](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd)
             The [FAIR Evaluation Services](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd) collect resources and guidelines to assess the FAIRness of digital resources. It focuses on maturity indicator tests. It is maintained by the [FAIRmetrics](https://github.com/FAIRMetrics) and the [FAIRsharing](https://sansonegroup.eng.ox.ac.uk/) groups.
@@ -35,7 +38,9 @@ sections:
             
             ## Overviews and Comparisons of Tools for FAIR Data Assessment
             
-            In 2023, The Hyve, a support portal for the life sciences, has published [an overview and evaluation of four FAIR data assessment tools](https://www.thehyve.nl/articles/evaluation-fair-data-assessment-tools). In 2024, the EOSC FAIR-IMPACT project has [published a review](https://fair-impact.eu/news/comparison-tools-automated-fair-software-assessment) in which it examined the application and potential repurposing of three of these assessment tools for assessing FAIR data principles.
+            The Hyve, a support portal for the life sciences, published an [overview and evaluation of the aforementioned four FAIR data assessment tools](https://www.thehyve.nl/articles/evaluation-fair-data-assessment-tools) (2023).
+            
+            The EOSC FAIR-IMPACT project has also reviewed three of these tools, but [with a focus on the application and potential repurposing to assess compliance with the FAIR for Research Software (FAIR4RS) principles](https://fair-impact.eu/news/comparison-tools-automated-fair-software-assessment).
 
   - block: markdown
     content:
