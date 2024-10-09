@@ -24,11 +24,11 @@ sections:
             ### [F-UJI FAIR Assessment](https://www.f-uji.net/?action=test)
             F-UJI FAIR Assessment assesses the FAIRness of research data objects (datasets) based on metrics developed by the [FAIRsFAIR project](https://www.fairsfair.eu). It only requires a PID or URL of the dataset which is to be assessed.
             
-            ### [ARDC FAIR Data Self Assessment Tool](https://ardc.edu.au/resource/fair-data-self-assessment-tool/)
-            The ARDC FAIR Data Self Assessment Tool assesses how FAIR your research dataset is and gives practical tips on how to enhance its FAIRness. It is developed by the [Australian Research Data Commons (ARDC)](https://ardc.edu.au/).
-            
             ### [FAIR Enough](https://fair-enough.semanticscience.org)
-            FAIR Enough checks if and how much online resources follow the FAIR principles. It is developed by the [Institute of Data Science](https://www.maastrichtuniversity.nl/research/institute-data-science) at Maastricht University.
+            FAIR Enough checks if and how much online resources follow the FAIR principles. It is developed by the [Institute of Data Science](https://www.maastrichtuniversity.nl/research/institute-data-science) at Maastricht University. It too only requires a PID or URL of the dataset which is to be assessed.
+            
+            ### [ARDC FAIR Data Self Assessment Tool](https://ardc.edu.au/resource/fair-data-self-assessment-tool/)
+            The ARDC FAIR Data Self Assessment Tool assesses how FAIR your research dataset is based on a checklist and gives practical tips on how to enhance its FAIRness. It is developed by the [Australian Research Data Commons (ARDC)](https://ardc.edu.au/).
             
             ### [FAIR Evaluation Services](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd)
             The FAIR Evaluation Services collect resources and guidelines to assess the FAIRness of digital resources. It focuses on maturity indicator tests. It is maintained by the [FAIRmetrics](https://github.com/FAIRMetrics) and the [FAIRsharing](https://sansonegroup.eng.ox.ac.uk/) groups.
