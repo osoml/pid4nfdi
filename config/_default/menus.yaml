@@ -57,15 +57,15 @@ main:
     weight: 50
   - name: News
     identifier: news
-    url: news
+    #url: news
     weight: 500
   - name: Blog
     parent: news
-    url: news/blog
+    url: blog
     weight: 10
   - name: Events
     parent: news
-    url: news/events
+    url: events
     weight: 20
   - name: About
     identifier: about

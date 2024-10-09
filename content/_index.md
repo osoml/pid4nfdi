@@ -9,6 +9,9 @@ sections:
     content:
         title: Persistent Identifier Services for NFDI
         text: | 
+            We offer support for PID implementation and selection and provide information on best practices, standards and trainings for the NFDI.
+            {.center}
+            
             {{< cta cta_text="Get started, get a PID" cta_link="./get-pid/start" cta_new_tab="false" cta_alt_text="Find a PID provider" cta_alt_link="./get-pid/services-provider" cta_alt_new_tab="false" >}}
             
             ## More Services and Resources:
@@ -77,6 +80,7 @@ sections:
         filters:
             folders:
                 - events
+        order: asc
     design:
         view: compact
         columns: '1'
