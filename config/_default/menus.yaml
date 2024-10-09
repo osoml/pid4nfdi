@@ -43,10 +43,10 @@ main:
     parent: resources
     url: resources/best-practice
     weight: 20
-#  - name: Policies
-#    parent: resources
-#    url: resources/policies
-#    weight: 30
+  - name: Policies
+    parent: resources
+    url: resources/policies
+    weight: 30
   - name: Standards and Schemes
     parent: resources
     url: resources/standards-schemes
