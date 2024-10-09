@@ -30,6 +30,14 @@ sections:
         Intro text …
         
         ```mermaid
+        graph TD;
+            A-->B;
+            A-->C;
+            B-->D;
+            C-->D;
+        ```
+        
+        ```mermaid
         mindmap
             root((PID4NFDI))
                 NFDI
