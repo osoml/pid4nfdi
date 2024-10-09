@@ -7,9 +7,10 @@ sections:
   - block: markdown
     content:
         title: Metadata Support and Assessment
-        text: Metadata is essentially _data about data_, providing descriptive information that helps in organizing, finding, and understanding resources. Therefore, metadata support (creating, managing and maintaining metadata) and metadata assessment (evaluating the quality and effectiveness of metadata, and its adherence to standards) are crucial for managing and utilizing digital resources such as research data effectively. Most important is that data is FAIR, which means that the data – and its metadata – meet the [FAIR principles](https://www.go-fair.org/fair-principles/), so that data is Findable, Accessible, Interoperable and Reusable.[^1] Persistent identifiers (PIDs) play a crucial role in making data FAIR.
-        
-        [^1]: Also see the original article [_The FAIR Guiding Principles for scientific data management and stewardship_](https://doi.org/10.1038/sdata.2016.18), and the official [interpretation of the FAIR principles](https://www.gofair.foundation/interpretation) as references for guiding FAIR implementation.
+        text: | 
+            Metadata is essentially _data about data_, providing descriptive information that helps in organizing, finding, and understanding resources. Therefore, metadata support (creating, managing and maintaining metadata) and metadata assessment (evaluating the quality and effectiveness of metadata, and its adherence to standards) are crucial for managing and utilizing digital resources such as research data effectively. Most important is that data is FAIR, which means that the data – and its metadata – meet the [FAIR principles](https://www.go-fair.org/fair-principles/), so that data is Findable, Accessible, Interoperable and Reusable.[^1] Persistent identifiers (PIDs) play a crucial role in making data FAIR.
+            
+            [^1]: Also see the original article [_The FAIR Guiding Principles for scientific data management and stewardship_](https://doi.org/10.1038/sdata.2016.18), and the official [interpretation of the FAIR principles](https://www.gofair.foundation/interpretation) as references for guiding FAIR implementation.
 
   - block: markdown
     content:
