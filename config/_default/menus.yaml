@@ -27,10 +27,10 @@ main:
     parent: services
     url: services/metadata-support-assessment
     weight: 10
-  - name: Datatype Registry
-    parent: services
-    url: services/datatype-registry
-    weight: 20
+#  - name: Datatype Registry
+#    parent: services
+#    url: services/datatype-registry
+#    weight: 20
   - name: Resources
     identifier: resources
     url: resources
@@ -43,10 +43,10 @@ main:
     parent: resources
     url: resources/best-practice
     weight: 20
-  - name: Policies
-    parent: resources
-    url: resources/policies
-    weight: 30
+#  - name: Policies
+#    parent: resources
+#    url: resources/policies
+#    weight: 30
   - name: Standards and Schemes
     parent: resources
     url: resources/standards-schemes
@@ -59,10 +59,10 @@ main:
     identifier: news
     #url: news
     weight: 500
-  - name: Blog
-    parent: news
-    url: blog
-    weight: 10
+#  - name: Blog
+#    parent: news
+#    url: blog
+#    weight: 10
   - name: Events
     parent: news
     url: events
