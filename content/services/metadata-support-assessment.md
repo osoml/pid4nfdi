@@ -25,7 +25,7 @@ sections:
             F-UJI FAIR Assessment assesses the FAIRness of research data objects (datasets) based on metrics developed by the [FAIRsFAIR project](https://www.fairsfair.eu). It only requires a PID or URL of the dataset which is to be assessed.
             
             ### [FAIR Enough](https://fair-enough.semanticscience.org)
-            FAIR Enough checks if and how much online resources follow the FAIR principles. It is developed by the [Institute of Data Science](https://www.maastrichtuniversity.nl/research/institute-data-science) at Maastricht University. It too only requires a PID or URL of the dataset which is to be assessed.
+            FAIR Enough checks if and how much online resources follow the FAIR principles. It is developed by the [Institute of Data Science at Maastricht University](https://www.maastrichtuniversity.nl/research/institute-data-science). It too only requires a PID or URL of the dataset which is to be assessed.
             
             ### [ARDC FAIR Data Self Assessment Tool](https://ardc.edu.au/resource/fair-data-self-assessment-tool/)
             The ARDC FAIR Data Self Assessment Tool assesses how FAIR your research dataset is based on a checklist and gives practical tips on how to enhance its FAIRness. It is developed by the [Australian Research Data Commons (ARDC)](https://ardc.edu.au/).
