@@ -30,14 +30,14 @@ sections:
         Intro text …
         
         ```mermaid
-            mindmap
-                root((PID4NFDI))
-                    NFDI
-                        NFDI consortia
-                        Base4NFDI
-                        NFDI sections and working groups
-                    EOSC
-                    funders
+        mindmap
+            root((PID4NFDI))
+                NFDI
+                    NFDI consortia
+                    Base4NFDI
+                    NFDI sections and working groups
+                EOSC
+                funders
         ```
     design:
       columns: '1'
