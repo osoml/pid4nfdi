@@ -18,9 +18,9 @@ sections:
             {.center}
             
             {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="Seek support in enhancing your PID metadata" cta_alt_link="./services/metadata-support-assessment" cta_alt_new_tab="false" >}}
-#            {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="See how others solved their PID challenges" cta_alt_link="./resources/best-practice" cta_alt_new_tab="false" >}}
-#            {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="Review requirements, good-practice and policies on PID usage" cta_alt_link="./resources/policies" cta_alt_new_tab="false" >}}
-#            {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="Learn more about PIDs and find training resources" cta_alt_link="./resources/training-material" cat_alt_new_tab="false" >}}
+            {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="See how others solved their PID challenges" cta_alt_link="./resources/best-practice" cta_alt_new_tab="false" >}}
+            {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="Review requirements, good-practice and policies on PID usage" cta_alt_link="./resources/policies" cta_alt_new_tab="false" >}}
+            {{< cta cta_text="" cta_link="" cta_new_tab="false" cta_alt_text="Learn more about PIDs and find training resources" cta_alt_link="./resources/training-material" cat_alt_new_tab="false" >}}
             
             {{< cta cta_text="Other questions? Get in touch!" cta_link="./about/contact" cta_new_tab="false" >}}
   
