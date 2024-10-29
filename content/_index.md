@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-09-10
+date: 2024-10-29
 type: landing
 
 sections:
@@ -59,19 +59,6 @@ sections:
       view: compact
       columns: '1'
 
-#  - block: collection
-#    content:
-#      title: Latest Publications
-#      text: ""
-#      count: 3
-#      filters:
-#        folders:
-#          - publications
-#        #publication_type: 'article'
-#    design:
-#      view: list
-#      columns: '1'
-
   - block: collection
     content:
         title: Upcoming Events
@@ -84,6 +71,19 @@ sections:
     design:
         view: compact
         columns: '1'
+
+#  - block: collection
+#    content:
+#      title: Latest Publications
+#      text: ""
+#      count: 3
+#      filters:
+#        folders:
+#          - publications
+#        #publication_type: 'article'
+#    design:
+#      view: list
+#      columns: '1'
 
   - block: markdown
     content:
