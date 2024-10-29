@@ -39,31 +39,31 @@ sections:
     design:
         columns: '1'
   
-#  - block: collection
-#    content:
-#      title: Latest Blog Posts
-#      subtitle:
-#      text:
-#      count: 5
-#      filters:
-#        author: ''
-#        category: ''
-#        exclude_featured: false
-#        publication_type: ''
-#        tag: ''
-#        folders:
-#          - blog
-#      offset: 0
-#      order: desc
-#    design:
-#      view: card
-#      columns: '1'
+  - block: collection
+    content:
+      title: Latest Blog Posts
+      subtitle:
+      text:
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+        folders:
+          - blog
+      offset: 0
+      order: desc
+    design:
+      view: card
+      columns: '1'
 
 #  - block: collection
 #    content:
 #      title: Latest Publications
 #      text: ""
-#      count: 5
+#      count: 3
 #      filters:
 #        folders:
 #          - publications
