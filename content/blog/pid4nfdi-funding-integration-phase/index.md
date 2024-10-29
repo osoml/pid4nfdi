@@ -4,7 +4,7 @@
 title: "PID4NFDI will continue to be funded until 2026"
 subtitle: ""
 summary: ""
-authors: ["marc"]
+authors: []
 tags: ["NFDI", "PID4NFDI", "Base4NFDI", "project news"]
 categories: []
 date: 2024-10-14

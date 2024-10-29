@@ -63,14 +63,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Initialisation Phase
-          company: first phase, one year
+          company: first phase (12 months)
           location: current
           date_start: '2024-01-01'
           date_end: '2024-12-31'
           #description: 
         - title: Integration Phase
-          company: second phase, two years
-          location: submission for funding successfull – in preparation
+          company: second phase (24 months)
+          location: in preparation ([successfull funding application](./blog/pid4nfdi-funding-integration-phase/))
           date_start: '2025-01-01'
           date_end: '2026-12-31'
           #description: 
