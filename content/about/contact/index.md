@@ -26,7 +26,7 @@ sections:
 
   - block: markdown
     content:
-      title: Imprint
+      title: Imprint / Legal Notice
       subtitle: Imprint for this website – also serves as provider identification according to § 5 Digitale Dienste Gesetz (DDG)
       text: |
         ## Provider:
