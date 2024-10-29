@@ -57,7 +57,7 @@ sections:
       order: desc
     design:
       view: card
-      columns: '2'
+      columns: '3'
 
 #  - block: collection
 #    content:
@@ -83,7 +83,7 @@ sections:
         order: asc
     design:
         view: compact
-        columns: '1'
+        columns: '2'
 
   - block: markdown
     content:
