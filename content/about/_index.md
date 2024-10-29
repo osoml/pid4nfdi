@@ -70,7 +70,7 @@ sections:
           #description: 
         - title: Integration Phase
           company: second phase (24 months)
-          location: in preparation ([successfull funding application](./blog/pid4nfdi-funding-integration-phase/))
+          location: in preparation
           date_start: '2025-01-01'
           date_end: '2026-12-31'
           #description: 
