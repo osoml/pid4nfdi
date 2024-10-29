@@ -30,8 +30,8 @@ sections:
       subtitle: Imprint for this website – also serves as provider identification according to § 5 Digitale Dienste Gesetz (DDG)
       text: |
         ## Provider:
-        Technische Informationsbibliothek (TIB)
-        Welfengarten 1 B, 30167 Hannover
+        Technische Informationsbibliothek (TIB)<br />
+        Welfengarten 1 B, 30167 Hannover<br />
         Postfach 6080, 30060 Hannover
         
         ## Authorised Representative:
@@ -44,9 +44,9 @@ sections:
         Ministry for Science and Culture of Lower Saxony
         
         ## Contact:
-        Customer service phone: +49 511 762-8989
-        Central information desk phone: +49 511 762-2268
-        Fax: +49 511 762-4076
+        Customer service phone: +49 511 762-8989<br />
+        Central information desk phone: +49 511 762-2268<br />
+        Fax: +49 511 762-4076<br />
         Email: information@tib.eu
         
         ## VAT (sales tax) registration number:
