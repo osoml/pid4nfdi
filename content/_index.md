@@ -34,12 +34,14 @@ sections:
 
             You can learn more about PIDs, their use cases and technical implementation at our partners [PID Network Germany](https://www.pid-network.de/en/) and the [PID Competence Center of TIB](https://projects.tib.eu/pid-service/en/persistent-identifiers/persistent-identifiers-pids/). Or watch this introductory video [_The power of PIDs_](https://doi.org/10.5281/zenodo.3977942) by the [FREYA project](https://www.project-freya.eu/):
         
-            {{< video src="FREYA_The_power_of_PIDs_540p.mp4" controls="yes" poster="FREYA_The_power_of_PIDs_preview.png" height="540px" width="auto">}}
+            {{< video src="FREYA_The_power_of_PIDs_540p.mp4" controls="yes" poster="FREYA_The_power_of_PIDs_preview.png">}}
             
+            <div class="video-container">
             <video controls poster="/pid4nfdi/media/FREYA_The_power_of_PIDs_preview.png">
                 <source src="/pid4nfdi/media/FREYA_The_power_of_PIDs_540p.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
+            </div>
 
     design:
         columns: '1'
