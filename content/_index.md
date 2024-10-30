@@ -43,7 +43,14 @@ sections:
             </video>
             </div>
             
-            <video controls poster="/pid4nfdi/media/FREYA_The_power_of_PIDs_preview.png" width="100%" height="auto">
+            <div class="center">
+            <video controls poster="/pid4nfdi/media/FREYA_The_power_of_PIDs_preview.png">
+                <source src="/pid4nfdi/media/FREYA_The_power_of_PIDs_540p.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            </div>
+            
+            <video controls poster="/pid4nfdi/media/FREYA_The_power_of_PIDs_preview.png" class="center">
                 <source src="/pid4nfdi/media/FREYA_The_power_of_PIDs_540p.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
