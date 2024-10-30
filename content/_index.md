@@ -36,7 +36,10 @@ sections:
         
             {{< video src="FREYA_The_power_of_PIDs_540p.mp4" controls="yes" poster="/pid4nfdi/media/FREYA_The_power_of_PIDs_preview.png" >}}
             
-            
+            <video controls poster="/pid4nfdi/media/FREYA_The_power_of_PIDs_preview.png">
+                <source src="/pid4nfdi/media/FREYA_The_power_of_PIDs_540p.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
 
     design:
         columns: '1'
