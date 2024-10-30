@@ -32,7 +32,7 @@ sections:
         Phone: +49 511 762-8138<br />
         Email: datenschutz@tib.eu
         
-        *Postal address:*
+        **Postal address:**
         
         Technische Informationsbibliothek (TIB)<br />
         data protection officer<br />
@@ -40,7 +40,7 @@ sections:
         30167 Hannover<br />
         Germany
         
-        *Visiting Address:*
+        **Visiting Address:**
         
         TIB Conti-Campus<br />
         Königsworther Platz 1 B<br />

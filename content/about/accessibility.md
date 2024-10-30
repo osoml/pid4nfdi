@@ -15,7 +15,7 @@ sections:
         
         This accessibility statement applies to https://pid.services.base4nfdi.de/ and its sub-pages.
         
-        *These websites are mostly compatible with the requirements of the harmonized European standard EN 301 549 V2.1.2 (08-2018) and WCAG 2.1 (Web Content Accessibility Guidelines).*
+        **These websites are mostly compatible with the requirements of the harmonized European standard EN 301 549 V2.1.2 (08-2018) and WCAG 2.1 (Web Content Accessibility Guidelines).**
         
         ## Non-accessible content:
         1. contents that the TIB, in its function as a cultural heritage collection, is unable to convert into barrier-free content or can only do so at disproportionate expense
@@ -24,7 +24,7 @@ sections:
             - PDF documents
             - Videos
         
-        *The listed contents are not barrier-free for the following reasons:*
+        **The listed contents are not barrier-free for the following reasons:**
         
         To 1 and 2.:
         
