@@ -62,7 +62,6 @@ sections:
         
 #        ## Use of web analysis tools
 #        If applicable, add and adapt from: https://www.tib.eu/en/data-protection
-        
         ## Collection of general data and information (logfiles)
         
         Whenever a data subject calls the PID4NFDI web pages, these pages automatically collect information in so-called server log files, which your browser automatically transmits to the server. This is:
