@@ -48,20 +48,6 @@ sections:
         
         Any data subject may contact our data protection officer directly regarding any and all questions and suggestions regarding data protection at any time.
         
-#        ## Registration for services
-#        If applicable, add and adapt from: https://www.tib.eu/en/data-protection
-        
-#        ## Subscription to newsletters and newsletter tracking
-#        If applicable, add and adapt from: https://www.tib.eu/en/data-protection
-        
-#        ## Contact possibility via the web pages
-#        If applicable, add and adapt from: https://www.tib.eu/en/data-protection
-        
-#        ## Cookies
-#        If applicable, add and adapt from: https://www.tib.eu/en/data-protection
-        
-#        ## Use of web analysis tools
-#        If applicable, add and adapt from: https://www.tib.eu/en/data-protection
         ## Collection of general data and information (logfiles)
         
         Whenever a data subject calls the PID4NFDI web pages, these pages automatically collect information in so-called server log files, which your browser automatically transmits to the server. This is:
@@ -83,8 +69,5 @@ sections:
         ## Rights of the data subject
         
         You shall at any time be entitled to obtain information about the data stored in this library, its origin and recipient and about the purpose of such data processing, as well as to rectification or erasure or restriction of processing or – to the extent that such processing is based on your consent – a right of withdrawal, possibly a right of objection and the right to data portability. Complaints may be lodged with the above-mentioned supervisory authority. You can contact us at any time for further questions on the subject of personal data.
-        
-#        ## OpenStreetMap
-#        If applicable, add and adapt from: https://www.tib.eu/en/data-protection
 
 ---
