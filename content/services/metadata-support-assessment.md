@@ -34,7 +34,7 @@ sections:
             The FAIR Evaluation Services collect resources and guidelines to assess the FAIRness of digital resources. It focuses on maturity indicator tests. It is maintained by the [FAIRmetrics](https://github.com/FAIRMetrics) and the [FAIRsharing](https://sansonegroup.eng.ox.ac.uk/) groups.
             
             ### [AtMoDat Data Checker](https://www.atmodat.de/adc)
-            The AtMoDat Data Checker is a Python-based library that contains checks to ensure compliance with the [AtMoDat Standard](https://www.atmodat.de/atmodat-standard). It is based on the [IOOS compliance checker](https://github.com/ioos/compliance-checker).
+            The AtMoDat Data Checker is a Python-based library that contains checks to ensure compliance with the [AtMoDat Standard](https://www.atmodat.de/atmodat-standard). It is based on the [IOOS compliance checker](https://github.com/ioos/compliance-checker) and was developed for the climate research community.
             
             ## Overviews and Comparisons of Tools for FAIR Data Assessment
             
