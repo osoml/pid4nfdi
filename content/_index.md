@@ -50,7 +50,7 @@ sections:
             </video>
             </div>
             
-            <video controls poster="/pid4nfdi/media/FREYA_The_power_of_PIDs_preview.png" class="center">
+            <video controls poster="/pid4nfdi/media/FREYA_The_power_of_PIDs_preview.png" class="center-block">
                 <source src="/pid4nfdi/media/FREYA_The_power_of_PIDs_540p.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
