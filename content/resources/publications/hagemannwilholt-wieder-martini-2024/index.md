@@ -72,10 +72,10 @@ url_video: 'https://www.youtube.com/watch?v=y-dJUOBUZWs'
 
 # Featured image (optional, uncomment lines below)
 # To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-#  caption: 'Image credit: [**Example**](https://example.com/)'
-#  focal_point: ''
-#  preview_only: false
+image:
+  caption: 'Image credit: [**NFDI**](https://nfdi.de)'
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional, uncomment lines below)
 #   Associate this publication with one or more of your projects.
@@ -93,4 +93,5 @@ url_video: 'https://www.youtube.com/watch?v=y-dJUOBUZWs'
 #slides: example
 
 share: false
+
 ---
