@@ -32,8 +32,11 @@ publishDate: '2024-07-23'
 publication_types: ['report']
 
 # Publication name and optional abbreviated publication name (uncomment line below).
-publication: 'NFDI Section _Common Infrastructures_'
+publication: 'Zenodo'
 #publication_short: ''
+
+# Event (optional, uncomment lines below)
+#event: ''
 
 # Abstract
 abstract: 'The aim of this NFDI working group is to develop a common strategy for the implementation and extension of PID services that is closely aligned with the needs of NFDI consortia. Resulting solutions should enable FAIR research workflows balancing out generic metadata requirements for PIDs that maximise resource discoverability on the one hand and subject-specific needs on the other. At the technical level, the partners want to realise interoperability between PID types and established systems and build on a high level of maturity here; jointly developed services should be able to be rolled out for the entire NFDI.'
@@ -54,7 +57,7 @@ tags:
 # Display this page in the Featured widget?
 featured: false
 
-# Links (uncomment lines below)
+# Links (optional, uncomment lines below)
 #url_pdf: 'https://example.com'
 #url_code: ''
 #url_dataset: ''
@@ -64,19 +67,19 @@ featured: false
 #url_source: ''
 #url_video: ''
 
-# Custom links (uncomment lines below)
+# Custom links (optional, uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-# Featured image
+# Featured image (optional, uncomment lines below)
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Example**](https://example.com/)'
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Example**](https://example.com/)'
+#  focal_point: ''
+#  preview_only: false
 
-# Associated Projects (optional, uncomment lines below).
+# Associated Projects (optional, uncomment lines below)
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
@@ -84,7 +87,7 @@ image:
 #projects:
 #  - example
 
-# Slides (optional, uncomment lines below).
+# Slides (optional, uncomment lines below)
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
