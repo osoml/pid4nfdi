@@ -79,7 +79,7 @@ sections:
 #      count: 3
 #      filters:
 #        folders:
-#          - publications
+#          - publication
 #        #publication_type: 'article'
 #    design:
 #      view: list
@@ -91,7 +91,7 @@ sections:
         subtitle: PID4NFDI – Persistent Identifier Services for the German National Research Data Infrastructure
         text: |
             {{% cta cta_link="./about/" cta_text="More about the project" %}}
-            {{% cta cta_link="./resources/publications/" cta_text="Latest publications" %}}
+            {{% cta cta_link="./publication/" cta_text="Latest publications" %}}
             {{% cta cta_link="./about/team/" cta_text="Meet the team" %}}
             {{% cta cta_link="./about/contact/" cta_text="Contact us" %}}
             
