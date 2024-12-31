@@ -76,12 +76,6 @@ sections:
           company: second phase (24 months)
           location: current
           date_start: '2025-01-01'
-          date_end: '2026-12-31'
-          #description: 
-        - title: Ramping-Up-for-Operation Phase
-          company: third phase
-          location: scheduled
-          date_start: '2027-01-01'
           date_end: ''
           #description: 
     design:
