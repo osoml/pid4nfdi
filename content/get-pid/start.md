@@ -18,6 +18,7 @@ sections:
             
             As a work in progress, it will continue to grow and adapt to meet the needs of the (NFDI) research community.
             
-            {{< cta cta_text="" cta_link="" cta_new_tab="true" cta_alt_text="Access our PID4NFDI Cookbook to get started with PIDs" cta_alt_link="https://pid4nfdi-training.readthedocs.io/en/latest/" cta_alt_new_tab="false" >}}
+            {{< cta cta_text="" cta_link="" cta_new_tab="true" cta_alt_text="Access our PID4NFDI Cookbook to get started with PIDs" cta_alt_link="https://pid4nfdi-training.readthedocs.io/en/latest/" cta_alt_new_tab="true" >}}
+            {.left}
 
 ---
