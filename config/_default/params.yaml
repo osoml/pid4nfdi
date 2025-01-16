@@ -48,10 +48,18 @@ header:
 # Site footer
 
 footer:
-  copyright:
-    notice: '© {year} PID4NFDI, [Base4NFDI](https://www.base4nfdi.de). <br>
-    Funded by DFG as part of [NFDI](https://www.nfdi.de). Grant Number: [521466146](https://gepris.dfg.de/gepris/projekt/521466146) <br><br>
-    [Contact](/about/contact) | [Imprint](/about/contact) | [Privacy](/about/privacy-s) | [Accessibility](/about/accessibility-s)'
+    mission: '<b>Base4NFDI</b><br>
+        PID4NFDI is a basic service within Base4NFDI.<br>
+        [What is Base4NDFI?](https://www.base4nfdi.de)<br>
+        [What is a Basic Service?](https://base4nfdi.de/process/basic-services)<br>
+        [Our Mission Statement](https://base4nfdi.de/about/mission-statement)<br>
+        '
+    dfg: 'PID4NFDI is funded as part of [Base4NFDI](https://base4nfdi.de).<br>
+        Grant number: [521466146](https://gepris.dfg.de/gepris/projekt/521466146)
+        '
+    copyright:
+        notice: '© {year} PID4NFDI<br><br>
+        [Contact](/about/contact) | [Imprint](/about/contact) | [Privacy](/about/privacy-s) | [Accessibility](/about/accessibility-s)'
 #    license:
 #      enable: true
 #      allow_derivatives: true
