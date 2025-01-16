@@ -114,6 +114,14 @@ a {
 	background-color: var(--color-blue) !important;
 }
 
+.footer-license-icons {
+	display: block;
+}
+
+.footer-license-icons a:hover {
+	text-decoration: none !important;
+ }
+
 .navbar {
 	font-family: "Fira Sans";
 	background-color: var(--color-anthracite);
@@ -178,6 +186,10 @@ a {
 	}
 }
 
+ .powered-by {
+    text-align: center;
+  }
+
 .section-subheading {
 	font-family: "Fira Sans";
 	
@@ -194,6 +206,17 @@ a {
 		}
 	}
 }
+
+.site-footer {
+	margin: 2rem 0;
+	padding: 25px 0;
+}
+
+footer p {
+	color: var(--color-white);
+ 	font-size: 0.67rem;
+	text-align: center;
+  }
 
 video {
 	width: auto !important;
