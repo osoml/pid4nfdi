@@ -38,8 +38,8 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: 'https://base4nfdi.de/images/documents/Roadshow_2024/Roadshow_Presentation_PID4NFDI.pdf'
-url_video: 'https://youtu.be/CSgKu6eNI6k'
+url_slides: 'https://base4nfdi.de/news-events/events/services-roadshow-by-base4nfdi-12-2024'
+url_video: 'https://base4nfdi.de/news-events/events/services-roadshow-by-base4nfdi-12-2024'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

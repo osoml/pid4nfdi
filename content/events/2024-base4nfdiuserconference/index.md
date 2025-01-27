@@ -43,7 +43,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://doi.org/10.5281/zenodo.14201186'
 url_video: ''
 
 # Markdown Slides (optional).
