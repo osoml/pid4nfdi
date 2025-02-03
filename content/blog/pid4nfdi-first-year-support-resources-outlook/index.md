@@ -4,7 +4,7 @@
 title: "PID4NFDI’s first year, PID support resources, and what’s to come next"
 subtitle: ""
 summary: "It has been an eventful and fruitful first year for PID4NFDI, the basic service for persistent identifiers in development for NFDI, the German National Research Data Infrastructure. PID4NFDI completed its first service development phase, the initialisation phase, at the end of 2024 and now heads into a second term, the two-year integration phase running in 2025 and 2026. In this blog post, we review and summarise PID4NFDI’s activities and outputs from the initialisation phase and preview what’s to come in the next two years."
-authors: []
+authors: ["marc"]
 tags: ["PID4NFDI", "project news", "NFDI", "Base4NFDI"]
 categories: []
 date: 2025-02-03
@@ -35,13 +35,13 @@ profile: false
 pager: false
 
 # Show recommendations for related content?
-show_related: false
+show_related: true
 
 # Featured image
 #   To use, add an image named `featured.jpg/png` to your page's folder.
 #   Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), reuses work [by Premeditated](https://w.wiki/CvkA)"
   focal_point: ""
   preview_only: false
 
@@ -61,7 +61,7 @@ It has been an eventful and fruitful first year for PID4NFDI, the basic service 
 
 PID4NFDI started in 2024 as one of [Base4NFDI](https://base4nfdi.de/)’s basic services in development with an ambitious [work programme set out for the initialisation phase](https://doi.org/10.5281/zenodo.14281250), aiming to build an NFDI basic service on established PID infrastructures and a _PID Coordination Hub_ as the central point of contact for all questions related to PIDs. During the first year, the team of PID4NFDI has been building and expanding networks with stakeholders, introducing the services at consortia meetings, and presenting and networking at conferences such as PIDfest, the EOSC Symposium and the Base4NFDI User Conference (see our pages on events and publications). PID4NFDI also held its first own event with its stakeholder workshop, gathering insights from actors in and beyond NFDI regarding PID implementation and usage. What is more, PID4NFDI has completed and made available more than a dozen project deliverables which offer a wide range of support resources for PID implementation.
 
-## PID Support Resources from PID4NFDI’s Initialisation Phase
+## PID Support Resources
 
 Persistent identifiers (PIDs) are central to FAIR research data management. However, different disciplines and different resources result in diverse requirements and the [26 NFDI consortia](https://www.nfdi.de/consortia/?lang=en) have different levels of maturity in PID implementation. As there already is a mature and globally used PID provider landscape and PID needs are highly individual in the consortia, the intended service of PID4NFDI offers a set of several components (technical, organisational, standards, training, outreach) that are in their interaction tailored to the needs of NFDI stakeholders. In PID4NFDI’s initialisation phase several resources and a number of publications were produced in order to support PID implementation and accompanying requirements and activities concerning PIDs in the NFDI consortia and beyond. The following is an overview and a summary of these resources and publications.
 
