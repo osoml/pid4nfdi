@@ -58,7 +58,10 @@ footer:
         '
     copyright:
         notice: '© {year} PID4NFDI<br>
-        [Contact](/about/contact)'
+        [Contact](/about/contact)<br>
+        [PID4NFDI @ nfdi.social](https://nfdi.social/@pid4nfdi)<br>
+        [PID4NFDI @ Bluesky](https://bsky.app/profile/pid4nfdi.bsky.social)<br>
+        [PID4NFDI @ LinkedIn](https://www.linkedin.com/showcase/pid4nfdi/)'
 #    license:
 #      enable: true
 #      allow_derivatives: true
