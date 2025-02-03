@@ -35,7 +35,7 @@ profile: false
 pager: false
 
 # Show recommendations for related content?
-show_related: true
+show_related: false
 
 # Featured image
 #   To use, add an image named `featured.jpg/png` to your page's folder.
