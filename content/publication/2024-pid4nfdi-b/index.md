@@ -9,10 +9,12 @@ draft: false
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - PID4NFDI
+- marc
 
 # Author notes (optional, uncomment line below)
 #author_notes:
-#  - 'e.g. equal contribution'
+- project authorship
+- editor
 
 # Publication date
 date: '2024-12-20'
