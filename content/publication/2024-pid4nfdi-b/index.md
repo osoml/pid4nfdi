@@ -13,8 +13,7 @@ authors:
 
 # Author notes (optional, uncomment line below)
 #author_notes:
-- project authorship
-- editor
+#  - 'e.g. equal contribution'
 
 # Publication date
 date: '2024-12-20'
