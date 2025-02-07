@@ -83,7 +83,7 @@ sections:
           date_start: '2025-01-01'
           date_end: ''
           description: |-
-          **Funding proposal:** [Persistent Identifier Services for the German National Research Data Infrastructure: Proposal for the Integration Phase of Base4NFDI](https://doi.org/10.5281/zenodo.14281255)
+            **Funding proposal:** [Persistent Identifier Services for the German National Research Data Infrastructure: Proposal for the Integration Phase of Base4NFDI](https://doi.org/10.5281/zenodo.14281255)
     design:
       columns: '1'
 ---
