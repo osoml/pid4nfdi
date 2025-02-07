@@ -71,13 +71,13 @@ sections:
           location: completed
           date_start: '2024-01-01'
           date_end: '2024-12-31'
-          #description: 
+          description: '[funding proposal](https://doi.org/10.5281/zenodo.14281250)'
         - title: Integration Phase
           company: second phase (24 months)
           location: current
           date_start: '2025-01-01'
           date_end: ''
-          #description: 
+          description: '[funding proposal](https://doi.org/10.5281/zenodo.14281255)'
     design:
       columns: '1'
 ---
