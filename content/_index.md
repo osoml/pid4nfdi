@@ -67,7 +67,7 @@ sections:
         filters:
             folders:
                 - events
-        order: asc
+        order: desc
     design:
         view: compact
         columns: '1'
