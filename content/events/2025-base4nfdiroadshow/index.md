@@ -9,8 +9,8 @@ event_url: https://base4nfdi.de/index.php?option=com_content&view=article&id=120
 location: online
 #address:
 
-summary: PID4NFDI will take part in the second Base4NFDI Services Roadshow.
-abstract: 'The team of PID4NFDI will join in participating in the second Base4NFDI Services Roadshow which takes place as an online event in May 2025.'
+summary: PID4NFDI will take part in the 2nd Base4NFDI Services Roadshow.
+abstract: 'The team of PID4NFDI will join in participating in the 2nd Base4NFDI Services Roadshow which takes place as an online event in May 2025.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -56,4 +56,4 @@ slides:
 projects:
 ---
 
-The team of PID4NFDI will join in participating in the second Base4NFDI Services Roadshow which takes place as an online event in May 2025. The event will be held on two days, May 22 and 27. Pid4NFDI will be presented in the session on _infrastructure providers and developers_ on May 22.
+The team of PID4NFDI will join in participating in the 2nd Base4NFDI Services Roadshow which takes place as an online event in May 2025. The event will be held on two days, May 22 and 27. Pid4NFDI will be presented in the session on _infrastructure providers and developers_ on May 22.
