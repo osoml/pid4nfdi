@@ -27,7 +27,7 @@ sections:
         
         PID4NFDI is organized internally by different work packages that cover these measures and areas of engagement. We operate as part of [Base4NFDI](https://base4nfdi.de/), a joint initiative of all 26 consortia within NFDI to foster and establish reliable NFDI-wide basic services, and are one of [several basic services in development](https://base4nfdi.de/projects).
         
-        The organizations responsible for operating PID4NFDI are [DataCite](https://datacite.org/), the [Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)](https://gwdg.de), the [Helmholtz Open Science Office](https://os.helmholtz.de/), and the [TIB – German National Library of Science and Technology](https://www.tib.eu/).
+        The organizations responsible for operating PID4NFDI are [DataCite](https://datacite.org/), the [Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)](https://gwdg.de), the [Helmholtz Open Science Office](https://os.helmholtz.de/) and the [TIB – German National Library of Science and Technology](https://www.tib.eu/).
 
   - block: markdown
     content:
