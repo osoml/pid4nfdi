@@ -211,14 +211,17 @@ a {
 .site-footer {
 	margin: 2rem 0;
 	padding: 25px 0;
-	font-size: 0.8rem !important;
 }
 
 footer p {
 	color: var(--color-white);
- 	font-size: 0.8rem;
+ 	font-size: 0.8rem !important;
 	text-align: center;
-  }
+}
+
+footer .powered-by {
+	font-size: 0.8rem !important;
+}
 
 video {
 	width: auto !important;
