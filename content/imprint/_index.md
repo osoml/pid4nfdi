@@ -36,22 +36,23 @@ sections:
         Michael Hohlfeld; email: michael.hohlfeld@tib.eu
         
         ## Privacy and Data Protection
-        Please refer to our [privacy policy page](./privacy).
+        Please refer to our [privacy policy page](/privacy).
         
         ## Copyright
-        All content on this website, including text, images, and other media, is protected by copyright laws, and hence reproduction, editing, and distribution outside the limits of copyright law require written permission from the author or creator. The exception is material which is clearly marked as licensed with an open content license, such as a Creative Commons license. In these cases, the respective material (text, images, other media) can be used by third parties according to the conditions of the respective license.
+        All content on this website, including text, images, and other media, is protected by copyright laws, and hence reproduction, editing, and distribution outside the limits of copyright law require written permission from the author or creator. The exception is material which is clearly marked as licensed with an open content license, such as a [Creative Commons](https://creativecommons.org/) license. In these cases, the respective material (text, images, other media) can be used by third parties according to the conditions as stated by the respective license.
         
         ## Social Media
         The imprint is also valid for the following social media accounts:
-        * Social Media Link 1
-        * Social Media Link 2
+        * [PID4NFDI on Mastodon (nfdi.social)](https://nfdi.social/@pid4nfdi)
+        * [PID4NFDI on Bluesky](https://bsky.app/profile/pid4nfdi.bsky.social)
+        * [PID4NFDI on LinkedIn](https://www.linkedin.com/showcase/pid4nfdi/)
         
         ## Funding
         This project is funded as part of [Base4NFDI](https://base4nfdi.de/). Grant number: [521466146](https://gepris.dfg.de/gepris/projekt/521466146)
         
         ## Base4NFDI
         
-        PID4NFDI is a basic service in development within Base4NFDI. For more information, see [www.base4nfdi.de](https://base4nfdi.de/).
+        PID4NFDI is a basic service in development within Base4NFDI. For more information, see [base4nfdi.de](https://base4nfdi.de/).
     
     design:
       columns: '1'
