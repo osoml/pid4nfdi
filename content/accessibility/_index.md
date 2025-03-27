@@ -1,63 +1,53 @@
 ---
-title: Imprint
+title: Accessibility
 date: 2024-12-16
 type: landing
 
 sections:
   - block: markdown
     content:
-      title: Imprint
-      subtitle: Imprint for this website – also serves as provider identification according to § 5 Digitale Dienste Gesetz (DDG)
+      title: Accessibility Statement
       text: |
+        The information on the accessibility of these web pages and its contact details are in accordance with § 9b NBGG.
         
-        ## Provider
+        This accessibility statement applies to {{site.BaseURL}} and its sub-pages.
+        
+        ## Compliance Status
+        These websites are mostly compatible with the requirements of the harmonized European standard EN 301 549 V2.1.2 (08-2018) and WCAG 2.1 (Web Content Accessibility Guidelines). The non-compliances and/or exemptions are listed below.
+        
+        ## Non-Accessible Content
+        * Some content is integrated into this website from a third-party source (for example, via frames) over which we do not have full authority and control. This content may be non-accessible or become non-accessible at any point in the future.
+        * Some images may miss an alternative text ('alt' attribute).
+        * Some hyperlinked text in the footer may be too small and/or too closely spaced, going below a minimum touch target size for touch devices.
+        * Some elements do not have sufficient color contrast ratio between the foreground text and its background, hence do not meet minimum contrast ratio threshold recommendations.
+        * Some content may be non-accessible for screen readers and other assistive technology as the respective tests may have not been performed comprehensively for all scenarios.
+        
+        ## Preparation of this Accessibility Atatement
+        The statement was prepared in March 2025 and last reviewed on March 27, 2025.
+        
+        The assessment is based on self-assessment.
+        
+        ## Feedback and Contact Information
+        You can report cases of non-compliance with accessibility requirements to us:
+        
         Technische Informationsbibliothek (TIB)<br />
-        Welfengarten 1 B, 30167 Hannover<br />
-        Postfach 6080, 30060 Hannover
+        Vertrauensperson der TIB für schwerbehinderte Menschen<br />
+        Postfach 60 80, 30060 Hannover
         
-        Technische Informationsbibliothek (TIB) is a foundation of public law of the state of Lower Saxony.
+        Phone: +49 511 762-17806
+        Email: SBV@tib.eu
         
-        ### Authorised Representative
-        Prof. Dr. Sören Auer (Director of TIB)
+        ## Arbitration Procedure
+        If you are not satisfied with the answers of our above-mentioned contact point, you can contact the arbitration office, which is located at the State Representative for People with Disabilities in Lower Saxony, for the initiation of an arbitration procedure in accordance with the Niedersächsisches Behindertengleichstellungsgesetz (Disability Equality Act of Lower Saxony) (NBGG).
         
-        ### Responsible Supervisory Authority
-        Ministry for Science and Culture of Lower Saxony (Ministerium für Wissenschaft und Kultur des Landes Niedersachsen)
+        The arbitration office has the task according to § 9d NBGG of settling disputes between people with disabilities and public institutions of the state of Lower Saxony on the topic of accessibility in IT.<br />        
+        The arbitration procedure is free of charge.<br />
+        No Legal Counsels are required.
         
-        ### Contact:
-        Phone: +49 511 762-8989 or +49 511 762-2268<br />
-        Email: customerservice@tib.eu or information@tib.eu
+        You can contact the arbitration office directly:<br />
+        Phone: +49 511 120-4010<br />
+        Email: schlichtungsstelle@ms.niedersachsen.de
         
-        ### VAT (sales tax) registration number
-        DE 214931803
-        
-        ### Editorial Office
-        Responsible for the content according to § 18 Abs. 2 MStV:<br />
-        Dr. Sandra Niemeyer; email: sandra.niemeyer@tib.eu<br />
-        Michael Hohlfeld; email: michael.hohlfeld@tib.eu
-        
-        ## Accessibility
-        Please refer to our [statement on accessibility](/accessibility).
-        
-        ## Privacy and Data Protection
-        Please refer to our [privacy policy](/privacy).
-        
-        ## Copyright
-        All content on this website, including text, images, and other media, is protected by copyright laws, and hence reproduction, editing, and distribution outside the limits of copyright law require written permission from the author or creator. The exception is material which is clearly marked as licensed with an open content license, such as a [Creative Commons](https://creativecommons.org/) license. In these cases, the respective material (text, images, other media) can be used by third parties according to the conditions as stated by the respective license.
-        
-        ## Social Media
-        
-        The imprint is also valid for the following social media accounts:
-        * [PID4NFDI on Mastodon (nfdi.social)](https://nfdi.social/@pid4nfdi)
-        * [PID4NFDI on Bluesky](https://bsky.app/profile/pid4nfdi.bsky.social)
-        * [PID4NFDI on LinkedIn](https://www.linkedin.com/showcase/pid4nfdi/)
-        
-        ## Funding
-        This project is funded as part of [Base4NFDI](https://base4nfdi.de/). Grant number: [521466146](https://gepris.dfg.de/gepris/projekt/521466146)
-        
-        ## Base4NFDI
-        
-        PID4NFDI is a basic service in development within Base4NFDI. For more information, see [base4nfdi.de](https://base4nfdi.de/).
-    
     design:
       columns: '1'
 
