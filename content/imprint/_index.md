@@ -44,7 +44,7 @@ sections:
         ## Copyright
         All content on this website, including text, images, and other media, is protected by copyright laws, and hence reproduction, editing, and distribution outside the limits of copyright law require written permission from the author or creator. The exception is material which is clearly marked as licensed with an open content license, such as a [Creative Commons](https://creativecommons.org/) license. In these cases, the respective material (text, images, other media) can be used by third parties according to the conditions as stated by the respective license.
         
-        ## Social Media
+        ## Anything Else
         The imprint is also valid for the following social media accounts:
         * [PID4NFDI on Mastodon (nfdi.social)](https://nfdi.social/@pid4nfdi)
         * [PID4NFDI on Bluesky](https://bsky.app/profile/pid4nfdi.bsky.social)
