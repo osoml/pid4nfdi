@@ -3,23 +3,10 @@ title: Privacy Policy
 date: 2025-03-27
 type: landing
 
-sections:
-  - block: markdown
-    id: short
-    content:
-      title: Overview of Collection and Use of Data
-      subtitle: What Data is Collected and How It is Used
-      text: |
-        The complete and full legal text of the privacy policy, which is legally authoritative, can be found below.
-        
-        Here's an overview of the most important aspects of possible collection and use of personal data when you visit and use this website:
-        
-        You, the user, have the right to access, correct, and request the deletion of any personal data in accordance with applicable data protection laws. Please refer to the respective sections in the full privacy policy below.
-
   - block: markdown
     content:
       title: Privacy Policy
-      subtitle: Full Legal Text
+      subtitle: What Data is Collected, How Your Data is Used, and Your Rights Concerning Data Protection
       text: |
         This privacy policy informs you about the type, scope, and purpose of the processing of personal data on this website.
         
