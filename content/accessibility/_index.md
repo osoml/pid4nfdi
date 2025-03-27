@@ -17,7 +17,7 @@ sections:
         
         ## Non-Accessible Content
         * Some content is integrated into this website from a third-party source (for example, via frames) over which we do not have full authority and control. This content may be non-accessible or become non-accessible at any point in the future.
-        * Some images may miss an alternative text ('alt' attribute).
+        * Some images may miss an alternative text (_alt_ attribute).
         * Some hyperlinked text in the footer may be too small and/or too closely spaced, going below a minimum touch target size for touch devices.
         * Some elements do not have sufficient color contrast ratio between the foreground text and its background, hence do not meet minimum contrast ratio threshold recommendations.
         * Some content may be non-accessible for screen readers and other assistive technology as the respective tests may have not been performed comprehensively for all scenarios.
