@@ -95,14 +95,6 @@ type: landing
         #### Storage and Deletion of Data
         The anonymised data is stored on the servers of the Center for Biotechnology (CeBiTec) at Bielefeld University as part of the de.NBI project. The data is not shared with third parties or combined with other datasets. It is retained only for as long as necessary for the purposes outlined above, and it is deleted once no longer required.
         
-#        #### Matomo Cookies / not applicable as use of cookies is deactivated for Matomo for PID4NFDI
-#        We use Matomo cookies to anonymously track how you use our website, helping us improve your experience. These cookies include:
-#        * The _\_pk\_id_ cookie, which stores an anonymous user ID for 13 months.
-#        * The _\_pk\_ref_ cookie, which records where you came from (the referrer URL) for 6 months.
-#        * The _\_pk\_ses_ cookie, a session cookie that lasts for 30 minutes and temporarily stores your visit data.
-#        
-#        These cookies are only used for web analytics on our site and are not shared with other websites. When you return to the website, the validity of these cookies is renewed. Once they expire, they are automatically deleted. For example, after 13 months, the _\_pk\_id_ cookie will no longer store your user ID and will be removed. Most importantly, we do not track you across other websites or domains; these cookies are used only on this site for the purposes mentioned above.
-        
         #### Your Rights and Option to Object
         As we do not collect personal data while using Matomo, you do not need to exercise rights such as access, correction, or deletion of personal data. However, if you prefer to opt out of data collection, you can disable Matomo tracking by enabling the _Do Not Track_ feature in your browser settings, and no data is collected by the tool at all.
         
