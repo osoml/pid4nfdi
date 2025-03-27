@@ -32,7 +32,8 @@ sections:
         ## Responsible Data Controller and Contact of Data Protection Officer
         
         ### Data Controller
-        The responsible **Data Controller** (according to Art. 4(7) GDPR) is:<br />
+        The responsible **Data Controller** (according to Art. 4(7) GDPR) is:
+        
         Technische Informationsbibliothek (TIB)<br />
         Welfengarten 1 B<br />
         30167 Hannover<br />
@@ -43,6 +44,7 @@ sections:
         
         ### Data Protection Officer
         You may contact the **Data Protection Officer** at any time:
+        
         Elke Brehm<br />
         Technische Informationsbibliothek (TIB)<br />
         Data Protection Officer<br />
@@ -77,7 +79,9 @@ sections:
         ## Integrated Third Party Services
         
         ### Understanding Our Third Party Processing and Your Privacy
-        To ensure the proper functioning of our website, user engagement tracking, and content delivery, we work with external service providers for data processing tasks. These providers may collect and analyse user data, such as IP addresses, browser information, and access logs, in compliance with data protection regulations. For example, this data may be used to host the website, monitor user interactions, and gather statistics on page visits or content engagement. All third-party data processing is done transparently, and we implement contracts to ensure that data processing complies with GDPR requirements. The external data processing services are listed below with explanations/examples:
+        To ensure the proper functioning of our website, user engagement tracking, and content delivery, we work with external service providers for data processing tasks. These providers may collect and analyse user data, such as IP addresses, browser information, and access logs, in compliance with data protection regulations. For example, this data may be used to host the website, monitor user interactions, and gather statistics on page visits or content engagement. All third-party data processing is done transparently, and we implement contracts to ensure that data processing complies with GDPR requirements. The external data processing services are listed below with explanations/examples.
+        
+        Each of these tools helps us improve your experience on the website, but you always have control over your data. If you have any questions about these services or your privacy, please reach out to our data protection officer.
         
         #### Contact via Email
         Our website provides the option to reach out to our project team or specific team members via email. Depending on the team, you may contact them via their personal email addresses or through a dedicated mailing list. If you choose to contact us through these email addresses or mailing lists, we will collect and process your personal data, such as your name and email address, solely to manage your inquiry or request. This processing is carried out in accordance with Art. 6(1e) of the GDPR, which allows us to process personal data to respond to your communication effectively. Please note that some teams may use multiple mailing list services or email programs to manage communications, and your data will only be used for the inquiry, not shared beyond that.
@@ -85,7 +89,18 @@ sections:
         #### Web Analytics via Matomo (de.NBI)
         We use Matomo, an open-source web analytics software, to analyse the usage of our website and improve its content. This section explains how we collect and process anonymised usage statistics through Matomo, ensuring that your privacy is protected.
         
-        Each of these tools helps us improve your experience on the website, but you always have control over your data. If you have any questions about these services or your privacy, please reach out to our data protection officer.
+        ##### What Data is Collected
+        Matomo collects the following anonymised data:
+        * anonymised IP address
+        * pages accessed and their sequence
+        * time spent on individual pages
+        * browser type and version
+        * operating system
+        * country of origin
+        * date and time of access
+        * referring pages (where you accessed our website from)
+        
+        
         
     design:
       columns: '1'
