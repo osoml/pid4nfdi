@@ -35,8 +35,11 @@ sections:
         Dr. Sandra Niemeyer; email: sandra.niemeyer@tib.eu<br />
         Michael Hohlfeld; email: michael.hohlfeld@tib.eu
         
+        ## Accessibility
+        Please refer to our [statement on accessibility](/accessibility).
+        
         ## Privacy and Data Protection
-        Please refer to our [privacy policy page](/privacy).
+        Please refer to our [privacy policy](/privacy).
         
         ## Copyright
         All content on this website, including text, images, and other media, is protected by copyright laws, and hence reproduction, editing, and distribution outside the limits of copyright law require written permission from the author or creator. The exception is material which is clearly marked as licensed with an open content license, such as a [Creative Commons](https://creativecommons.org/) license. In these cases, the respective material (text, images, other media) can be used by third parties according to the conditions as stated by the respective license.
