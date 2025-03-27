@@ -73,7 +73,7 @@ sections:
         ### Contact via Contact Form
         Our website provides the option to reach out to us via a structured [contact form](/about/contact/). If you choose to contact us through this contact form, we will collect and process your personal data, such as your name and email address, solely to manage your inquiry or request. This processing is carried out in accordance with Art. 6(1e) of the GDPR, which allows us to process personal data to respond to your communication effectively. A ticket system is used to manage incoming inquiries, very similar to an email which you sent which is then received by the email server and email application of the recipient. Likewise, your data will only be used for the inquiry, not shared beyond that.
         
-        ### Web Analytics via Matomo (de.NBI)
+        ### Web Analytics via Matomo <!-- de.NBI version --->
         We use Matomo, a privacy-focused open-source web analytics software, to analyse the usage of our website and improve its content. This section explains how we collect and process anonymised usage statistics through Matomo, ensuring that your privacy is protected.
         
         #### What Data is Collected
@@ -182,10 +182,10 @@ sections:
         
         If you believe your personal data is being processed unlawfully or in violation of GDPR, you can file a complaint with a supervisory authority. The authority responsible for us is:<br />
         Der Landesbeauftragte für den Datenschutz Niedersachsen (Data Protection Office of Lower Saxony)<br />
-        Prinzenstraße 5
-        30159 Hannover
-        Phone: +49 511 1204500
-        Email: poststelle@lfd.niedersachsen.de
+        Prinzenstraße 5<br />
+        30159 Hannover<br />
+        Phone: +49 511 1204500<br />
+        Email: poststelle@lfd.niedersachsen.de<br />
         Website: https://www.lfd.niedersachsen.de
         
         ## Data Transfer to Third Countries

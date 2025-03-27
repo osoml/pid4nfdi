@@ -32,9 +32,9 @@ sections:
         
         Technische Informationsbibliothek (TIB)<br />
         Vertrauensperson der TIB für schwerbehinderte Menschen<br />
-        Postfach 60 80, 30060 Hannover
-        
-        Phone: +49 511 762-17806
+        Postfach 60 80<br />
+        30060 Hannover<br />
+        Phone: +49 511 762-17806<br />
         Email: SBV@tib.eu
         
         ## Arbitration Procedure
