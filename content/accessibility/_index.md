@@ -10,7 +10,7 @@ sections:
       text: |
         The information on the accessibility of these web pages and its contact details are in accordance with § 9b NBGG.
         
-        This accessibility statement applies to {{site.BaseURL}} and its sub-pages.
+        This accessibility statement applies to _pid.services.base4nfdi.de_ and its sub-pages.
         
         ## Compliance Status
         These websites are mostly compatible with the requirements of the harmonized European standard EN 301 549 V2.1.2 (08-2018) and WCAG 2.1 (Web Content Accessibility Guidelines). The non-compliances and/or exemptions are listed below.
