@@ -27,7 +27,7 @@ sections:
         Phone: +49 511 762-8989 or +49 511 762-2268<br />
         Email: customerservice@tib.eu or information@tib.eu
         
-        ### VAT (sales tax) registration number
+        ### VAT (Sales Tax) Registration Number
         DE 214931803
         
         ### Editorial Office
