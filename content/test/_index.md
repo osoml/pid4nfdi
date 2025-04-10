@@ -6,9 +6,9 @@ type: landing
 sections:
   - block: markdown
     content:
-    	title: Section 1
-    	subtitle: A subtitle
-    	text: |
-    	Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+        title: Title 1
+        subtitle: Subtitle 1
+        text: | 
+    		Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 
 ---
